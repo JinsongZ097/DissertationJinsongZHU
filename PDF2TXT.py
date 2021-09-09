@@ -40,13 +40,13 @@ def pdf_to_word(pdf_file_path, word_file_path):
 def main(pdf, word="out.docx"):
     try:
         pdf_to_word(pdf, word)
-        print("转换成功！")
+        print("success")
     except:
-        print("出错了")
+        print("error")
 
 if __name__ == '__main__':
     # pdf = input()
-    pdf = "E:/aaa/bbb/your_file.pdf"
+    pdf = "E:/project/format.pdf"
     main(pdf)
 
 
