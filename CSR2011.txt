@@ -1,0 +1,3112 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSR Report 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Since its establishment in 1948, the Toyota Tsusho Group has expanded its businesses from a global perspective to provide products and services under the banner of “Creation of Added Value.” Group companies worldwide are currently cooperating closely in undertaking operations encompassing production, processing, retail and services that respond to the conditions and needs of each region.
+The Toyota Tsusho Group will fully utilize its global networks, expertise in international collaboration and the strengths cultivated within the Toyota Group to strive toward a new image—one of a trading company capable of flexible thinking and making precise, well-tailored proposals.
+
+
+
+
+
+
+
+Contents 
+Corporate Profile / Editorial Comments	2
+Message from Management	3
+Toyota Tsusho’s Approach to CSR	5
+Toyota Tsusho’s Businesses and Value Chain	7
+Metals Division	9
+Global Production Parts & Logistics Division	11
+Automotive Division	13
+Machinery, Energy & Project Division	15
+Chemicals & Electronics Division	17
+Produce & Foodstuffs Division	19
+Consumer Products, Services & Materials Division	21
+Occupational Health and Safety Initiatives	23
+Human Resource Initiatives	27
+Approach to the Environment	33
+Social Contribution Activities	39
+Governance	42
+Response to the Great East Japan Earthquake	45
+Third-Party Opinion	46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+ 
+
+
+
+
+
+
+
+Corporate Profile	(As of March 31, 2011)
+ 
+Company Name Establishment Paid-in Capital Common Stock
+Issued
+Head Office
+Tokyo Head Office Branches & Sales
+Offices (Japan)
+
+
+Branches & Representative Offices (Overseas)
+Bases Consolidated
+Companies
+Number of Employees
+ 
+Toyota Tsusho Corporation July 1, 1948
+¥ 64,936 million
+349,912,511 shares
+
+Century Toyota Bldg. 9-8, Meieki 4-chome, Nakamura-ku, Nagoya 450-8575, Japan
+3-13, Konan 2-chome, Minato-ku, Tokyo 108-8208
+Hokkaido, Tohoku, Niigata, Hamamatsu, Matsumoto, Mishima, Toyota, Osaka, Hokuriku, Hiroshima, Kyushu, Fukuyama, Takamatsu
+Moscow (Russia), Cairo (Egypt), others
+
+Domestic: 15 Overseas: 25
+Domestic: 75 Overseas: 212
+
+3,420
+ 
+
+Editorial Comments	
+Editorial Policy
+While Toyota Tsusho Corporation (hereafter, “Toyota Tsusho”) has posted environmental reports on its website since 2002, this information has been integrated into the CSR Report since 2005.
+The purpose of this report is to describe and report to our stakeholders worldwide Toyota Tsusho’s activities aimed at the sustainable development of a global society.
+The report focuses on examples of actions taken on site to facilitate understanding about the Corporate Philosophy and Vision of Toyota Tsusho serving as the basis for CSR activities.
+Special features report on the activities within the seven business domains of the Toyota Tsusho Group, which illustrate our relationship with the natural environment from a “sustainability” viewpoint.
+
+Reference Guidelines
+GRI Sustainability Reporting Guidelines 2006 (G3 Guidelines) Ministry of the Environment, Japan, Environmental Reporting Guidelines (2007 version)
+
+Scope of the Report
+Toyota Tsusho Corporation’s main consolidated subsidiaries and affiliates. However, some of the activities described herein are those of Toyota Tsusho Corporation only.
+
+Reporting Period
+This report covers the period from April 1, 2010, to March 31, 2011 (although certain activities are included that fall outside this reporting period).
+
+Date of Publication
+October 2011 (previous publication: December 2010)
+
+Representative Responsible for Publication
+Jun Karube, President
+ 
+
+
+Message from Management
+
+
+We contribute to the creation of a sustainable society as a company that aims to live and prosper together with people, society and the Earth.
+ 
+
+
+
+
+
+
+
+
+ 
+
+I would like to express my deepest condolences for all who perished in the Great East Japan Earthquake and my sincerest sympathies to all who were affected by this disaster. I pray for the earliest possible recovery of the stricken region.
+
+ 
+
+CSR Inseparable from Management
+
+ 
+Toyota Tsusho does not view CSR as a special undertaking. Rather, we see it as being inseparable from the management of all corporate activities. Based on this viewpoint, we established our Corporate Philosophy as living and prospering together with people, society, and
+ 
+
+October 2010, we also established a new company to produce bio-PET raw materials from bioethanol derived from sugar cane. We thereby formed the world’s first global supply chain for bio-PET, with an integrated system spanning raw material procurement, intermediate and final processing and sales.
+We believe that promoting environmental management is essential to our mission of living and prospering together with people, society and the Earth, and being trusted by our stakeholders. Accordingly, in fiscal 2010 the Group promoted its certification under the ISO 14001 international standard for environmental management systems. During the year, two of our companies in Japan and two overseas companies received this certification.
+ 
+the Earth. Accordingly we aim to be a value-generating	 	 corporation that contributes to the creation of a prosperous
+ 
+society. The Group has established Behavioral Guidelines
+ 
+Formulation of New Management Vision
+ 
+as a fundamental code of conduct for realizing this	 	
+ 
+philosophy. We also seek to pass on a deeper understanding of The Toyota Tsusho Group Way, which sets forth the Group’s unique values, beliefs and daily principals.
+Toyota Tsusho’s mission is to continually address society’s changing needs, create new business models, and deliver new value to markets and society. To realize this mission, we are continuing efforts to build a company that is trusted by all of its stakeholders and to increase corporate value.
+
+ 
+
+Principal CSR Initiatives in Fiscal 2010
+
+ 
+In fiscal 2010, Toyota Tsusho continued to pursue its CSR initiatives in line with the mission described above. Under a business model designed to help resolve some of the issues that society faces, in June 2010 we embarked on the complete cultivation of bluefin tuna. We established a new company, Tuna Dream Gotoh Co., Ltd., to handle the intermediate cultivation of these tuna through a technology-sharing agreement with Kinki University, which developed the technique. This new company is significant in that it aims both to protect biodiversity and sustain Japan’s gastronomic culture. In
+ 
+The environment in which Toyota Tsusho operates is changing with previously unimaginable speed. To meet the expectations of our shareholders and create new value under these circumstances requires us to adopt a broader perspective and view our business in new ways. To address this need and clarify Toyota Tsusho’s objectives for the next 10 years, we have formulated the new GLOBAL 2020 VISION, to be shared among all Group employees worldwide.
+In this vision, Toyota Tsusho keeps 2020 in its sights as it establishes priority initiatives such as making contributions in such areas as the evolution of
+next-generation automobiles, further improvements in living conditions and solving global issues. Furthermore, Toyota Tsusho indicates its corporate “ideal self” as maintaining an unwavering sense of responsibility and securing our customers’ trust. We have clearly set out our priorities to achieve environmental sustainability and ensure the trust of our customers.
+Going forward with this vision, Toyota Tsusho will pursue CSR initiatives designed to contribute even more to the creation of a sustainable society. In these endeavors, I ask our stakeholders for their continued support in the years ahead.
+
+October 2011
+ 
+
+ 
+President
+ 
+
+
+Toyota Tsusho’s Approach to CSR
+
+
+
+Our Behavioral Guidelines describe how
+we will conduct CSR activities to realize our Corporate Philosophy.
+Toyota Tsusho’s Corporate Philosophy sets forth the Company’s raison d’être and the resolve with which it manages its operations. Our Behavioral Guidelines define a code of action for all executives and employees. Toyota Tsusho’s basic management philosophy is based on a Fundamental Philosophy of unchanging ideals that should be passed on to future generations.
+Our Behavioral Guidelines describe how we will conduct CSR activities to realize our Corporate Philosophy.
+
+
+
+
+
+
+ 
+Our philosophy system codifies our actions
+into four tiers designed to realize our Fundamental Philosophy.
+Toyota Tsusho’s Group philosophy system comprises four tiers: “Fundamental Philosophy,” “Vision,” “Long-Term Plan and Annual Plan,” and “The Toyota Tsusho Group Way.”
+At the apex of Toyota Tsusho’s philosophy system is its Fundamental Philosophy, which addresses such questions as “What is the purpose of our corporate existence” and “What are our objectives, and how will we achieve them?” Our Fundamental Philosophy comprises our Corporate Philosophy and Behavioral Guidelines.
+Our newly formulated vision addresses the question of how we will realize our Fundamental Philosophy 10 years hence. In fiscal 2011, our GLOBAL 2020 VISION will take the place of VISION 2015 –LEAD THE NEXT–.
+Five-year long-term plans and annual plans provide specifics on how we will achieve the targets described in the Vision.
+ 
+To promote these initiatives, the Toyota Tsusho Group Way sets forth the Group’s unique values, beliefs and daily principles of conduct. On the basis of this “Group way,” all Toyota Tsusho executives and employees pursue the aim of creating value from the customer’s perspective, based on three principles: “commercial spirit,” “real places, real things, reality,” and “team power.”
+“G’VALUE with you” is the Toyota Tsusho Group’s flagship message, forming the basis for its initiatives as it strives to realize its Group philosophy.
+
+
+Four-Tier Conceptual Hierarchy
+ 
+
+ 	 
+
+
+
+
+
+
+
+
+The Toyota Tsusho Group Way
+ 
+ 
+
+Toyota Tsusho formulates a new vision.	Particular fields of focus will be Mobility, Life & Community
+ 
+Toyota Tsusho has formulated a new corporate vision, the GLOBAL 2020 VISION, to clarify its objectives for the next 10 years, commencing in fiscal 2011, and to be shared among all Group employees throughout the world.
+The GLOBAL 2020 VISION clarifies how Toyota Tsusho will pursue CSR initiatives even more proactively than in the past. First, we define our “ideal self” to indicate the manner in which we intend to conduct our corporate life. This ideal self describes our corporate image as “maintaining an unwavering sense of responsibility” and “securing our customers’ trust.”
+ 
+and Earth & Resources. GLOBAL 2020 VISION names TRY-1 as the objective for achieving a business portfolio comprising these three fields in a 1:1:1 ratio. Topmost among the priorities of our “ideal self” are the concepts of “breakthrough,” through which we aim to innovate to push ourselves beyond our current boundaries and “co-creation,” which describes a growth cycle of creating, connecting and expanding.
+Toyota Tsusho aims to ramp up its CSR initiatives on the basis of this new vision.
+ 
+
+Philosophy System and GLOBAL 2020 VISION	 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* E.D.G.E.: An acronym for the four keywords “evolution,” “diversity,” “globalization,” and “expertise.”
+
+
+
+
+ 
+We aim to provide added value that will satisfy all our stakeholders.
+In 2005, we reorganized the Corporate Ethics Committee and named it the CSR Committee (chaired by the president), to serve as the central organization for promoting CSR throughout the Group. This committee meets once each year. In June 2010, we placed the Specified Import & Export Control Committee, the Conference on the Global Environment and the Safety Management Improvement Committee under the CSR Committee, to invigorate our CSR activities further.
+Within this framework, Toyota Tsusho aims to provide added value to satisfy all stakeholders.
+ 
+Toyota Tsusho Stakeholders and CSR
+ 
+
+
+
+
+
+
+
+
+
+(Convenes once per year)
+ 
+
+
+Toyota Tsusho’s Businesses and Value Chain
+
+
+
+
+	
+Recovery and processing of scrap metal inside plants	
+End-of-life vehicle recycling	
+Development of rare earth resources	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+Procurement of crude oil and coal	
+ 
+
+Gas field drilling		
+Recycling of industrial waste and waste oil	
+
+	
+Development of iodine and other chemicals	
+
+	
+Foodstuff procurement	
+ 
+
+Agricultural production and cultivation management		
+Quality and safety control (food reliability and safety)	
+
+	
+Recycling of textile products	
+Environmental materials	
+ 
+ 
+
+	
+Metal processing (slitting, leveling and	blanking)
+Molten aluminum production	
+
+
+
+Export and sale of automobiles and two-wheeled vehicles (new and used vehicles), sales finance (installment, leasing, etc.)
+Customer service
+
+		
+Manufacture, sale and maintenance of	machinery and equipment	
+Power generation		Sale of construction machinery and industrial vehicles
+
+
+Network system integration and support
+Mobile phone sales
+
+ 
+
+Production and sale of food ingredients and processed foods
+
+
+Sale of livestock feed (grain silos)
+ 
+
+Sale of imported food products
+
+Sale of systems to accelerate composting
+ 
+
+
+
+
+   
+* Harvest age: We refer to people who are 60 or older as being of “harvest age.”
+ 
+Metals Division
+
+ 
+
+
+Types of Rare Earths that Toyota Tsusho Handles, and Their Applications
+ 
+
+
+India
+ 
+
+Monazite mine
+ 
+
+Salificated rare earth mixture
+
+Uranium and thorium
+ 
+Smelting plant
+Refining	 	
+ 
+
+
+ 
+
+
+Vietnam
+ 
+
+Rare earth	Rare earth ore
+ 
+Smelting plant
+Refining	 	
+ 
+
+
+
+
+ 
+
+
+Indonesia
+ 
+
+Tin mine	Slag
+
+Tin
+ 
+Smelting plant
+Refining	 	
+ 
+
+
+
+
+Cultivating New Suppliers to Ensure a Stable Supply of Rare Earths
+While rare earths are essential to a range of leading-edge industrial fields, in recent years overdependence on China for these resources has become increasingly problematic. To diversify sources of supply and thereby ensure a steady supply to consumers, Toyota Tsusho has acquired rare earth mining rights in various parts of the world, including India, Vietnam and Indonesia, and is constructing smelting plants.
+
+
+ 
+We are working to create win–win relationships in a variety of regions.
+Demand for rare earths has surged in recent years, owing to their use in hybrid vehicle motors, mobile phone batteries, and a host of other leading-edge industrial fields. To ensure a steady supply of rare earth resources to meet these needs, Toyota Tsusho is cultivating suppliers throughout the world,
+including in India, Vietnam and Indonesia. Throughout the process,
+we place topmost priority on environmental preservation in areas from which we extract resources. As part of our business, we aim to create win–win relationships with the countries in which we operate,
+by contributing to their economic development and through
+human resource training and technology transfer.
+Naoto Yamagishi
+General Manager
+Metal & Mineral Resources Department
+ 
+India	Producing Rare Earths from the Waste Generated During Uranium
+and Thorium Extraction
+We are moving forward with plans to build a factory in India to produce rare earths. Indian Rare Earth Ltd., a company affiliated with India’s Department of Atomic Energy, is currently mining sand deposits that include monazite. Extracting the nuclear fuel (uranium and thorium) from this monazite ore leaves as a byproduct a salificated rare earth mixture.
+The plant that we are building makes use of this previously unexploited mixture as a raw material to produce such rare earths as neodymium, lanthanum and cerium. Construction began in July 2011 and the plant will be operated by our Indian subsidiary, TREI*. We are moving ahead with preparations to commence production in April 2012. Assuming that the project progresses according to plan, we expect the plant to begin producing between 3,000 and 4,000 tons of rare earths per year in 2012.
+* TREI: Toyotsu Rare Earths India Private Ltd.
+
+Vietnam	Building a Supply Chain Spanning Rare Earth Mine Development to
+Production Plants
+An agreement on joint development of rare earth mines was reached at a Japan–Vietnam bilateral summit meeting in October 2010. In line with this accord, Toyota Tsusho made a full-fledged
+ 
+
+9
+ 
+
+Cerium Lanthanum Neodymium
+
+
+
+ 
+Cerium Lanthanum Neodymium
+
+
+
+Neodymium Dysprosium
+
+
+
+Rare Earth Value Chain
+ 
+
+
+
+Toyota Tsusho
+Procure, supply
+ 
+
+
+
+
+
+
+Magnet manufacturers
+Magnets
+
+
+Chemical manufacturers
+Catalysts
+ 
+
+
+
+
+
+
+Hybrid vehicles
+
+Motors Exhaust catalysts
+
+Batteries
+ 
+We are working to ensure stable supplies of new rare earth resources by developing mines and new raw materials throughout the world’s regions, and by moving forward with the construction of new smelting plants. Rare earths are used in a wide variety of manufacturing fields, and feature in hybrid vehicles, mobile phones and a host of other products used in our everyday lives.
+ 
+
+Battery manufacturers
+Batteries
+ 
+
+Mobile phones
+
+Batteries
+ 
+
+
+
+
+
+ 
+commitment to a rare earths project that it had been pursuing in Vietnam. In 2011, we set up a joint venture with a local company to develop a rare earth mine in Dong Pao, located northwest of Hanoi, and we expect to acquire mining rights in late 2011.
+Following this acquisition, in 2012 we will begin preparations for a refining plant, where we are planning to produce such minerals as cerium, lanthanum and neodymium in the summer of 2012. Success in this project should assure us a stable annual supply of 7,000 tons of rare earths, meeting one-fourth of Japanese demand.
+
+Indonesia	Recovering Rare Earths from the Slag Emitted during Tin Refining
+ 
+
+
+
+Social and Market Trends
+
+In the past, China accounted for more than 90% of the world’s rare earth production volume. However, since 2006 environmental protection policies enacted in China have resulted in tighter exports of rare earths, driving up world prices.
+This situation has prompted urgent calls within the global industrial sector to cultivate other sources to ensure a more stable procurement of raw earths.
+Global Demand for Rare Earths
+ 
+(Thousands of tons)
+ 
+Demand from China
+ 
+Demand outside China
+ 
+Toyota Tsusho is developing rare earths on the western Indonesian island of Bangka, a region that leads the world in the production of tin. In the past, the slag emitted during the process of refining tin ore was handled as industrial waste, but this slag contains raw earths.
+We plan to build a specialized plant in the area employing
+ 
+200
+
+
+150
+
+
+100
+ 
+
+
+
+110
+60
+ 
+
+
+120 124
+67	68
+ 
+Available exports from China
+
+146
+125 135 85
+72.5 77
+85
+ 
+
+171
+102
+93
+ 
+185
+111
+ 
+state-of-the-art refining technology to recover rare earths from this waste slag. We expect to extract neodymium and dysprosium, which are core elements used in hybrid and electric vehicles.
+ 
+60.3 60.0
+  50
+50	53
+
+0
+ 
+60
+47.4 50.1
+56	52.5
+25 30.3
+ 
+
+58	61	65
+ 
+69	74
+ 
+2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 (Year)
+(Forecast) (Forecast) (Forecast) (Forecast) (Forecast)
+Source: Toyota Tsusho
+
+
+10
+ 
+Global Production Parts & Logistics Division
+
+
+
+ 
+Thai Automobile Production and Registration
+ 
+Business Overview of the Global Production Parts & Logistics Division
+ 
+(Thousands of vehicles)
+ 
+Vehicles produced
+ 
+Vehicles registered
+ 
+Supply parts procured from Japanese automotive parts and components
+ 
+3,000
+ 
+2,748 2,745
+ 
+
+2,562
+ 
+2,881
+ 
+manufacturers to autoparts makers that are developing business overseas Collect and transport the parts and materials needed for automobile
+production to automakers with bases overseas	 	
+ 
+2,500 2,615
+
+2,000
+
+
+1,500
+ 
+
+
+
+1,1251,193
+ 
+
+2,408
+
+
+1,2871,394
+ 
+
+2,292
+
+
+
+999
+ 
+
+
+
+1,645
+ 
+
+
+1,800
+
+
+1,122
+ 
+Features The division consolidates a myriad of products from manufacturers of parts and components, for efficient delivery onward to overseas production bases. This reduces shipping costs and realizes supply stability.
+Component manufacturer Component manufacturer
+ 
+
+
+
+
+Global Production Parts Department
+ 
+1,000
+ 
+928
+ 
+Component manufacturer
+ 
+Component export
+ 
+   500
+
+
+0
+ 
+
+
+
+2004 2005 2006 2007 2008 2009 2010 2011(Year)
+ 
+Component manufacturer	 	
+Production of components needed to manufacture automobile parts
+
+Japan
+ 
+
+
+
+
+
+Global export of
+ 
+Source: Toyota Tsusho
+
+
+Driver Training and Thorough
+ 
+components produced
+in Japan
+
+
+
+
+Aboard
+ship
+ 
+Management of Transport Conditions to Ensure Safe, High-Quality Transportation in Thailand
+In Japan and overseas, the Global Production Parts & Logistics Division procures a wide range of components that are needed to manufacture automobile parts, supplying them to Japanese automobile parts manufacturers with production bases located overseas. In Thailand, a key country of destination for these components, we operate one of the country’s leading trucking companies. We concentrate on training drivers to prevent accidents while transporting these goods.
+
+
+ 
+Our initiatives to improve the transportation process are designed to protect people as well as goods.
+The Global Production Parts & Logistics Division was inaugurated as an operating division in April 2011. We stock the various components that Japanese manufacturers of automobile parts need, consolidate them, and then ship
+them to automobile parts manufacturers’ bases overseas.
+Delivering products to customers on a just-in-time basis is of course essential. As a member of the automobile industry, we are also responsible for protecting the safety of our drivers and people in the local community. Accordingly, we prioritize initiatives to ensure safe driving and prevent accidents.
+Ryuhei Hirata
+General Manager
+Logistics Business Department
+ 
+Conducting Traffic Safety Training for Drivers in Thailand, Where Accidents per Vehicle Number Four Times That of Japan
+Thailand, a key export destination for our global production parts and logistics business, is also a world leader in automobile production, manufacturing 1.5 million vehicles in 2010.
+As Thailand lacks an advanced rail network, trucks tend to be the transportation mode of choice. However, this creates a number of problems for society; driver’s licenses are relatively easy to acquire, and traffic accidents are widespread. In 2009, Thailand had approximately 7,900 traffic accidents, which is nearly four times the number in Japan, calculated on the basis of the number of registered vehicles.
+TTKL (a joint venture between Toyota Tsusho, Toyota Tsusho Thailand and Kimura-Unity Co., Ltd.), which handles our transportation in the country, has some 1,200 drivers operating more than 700 trucks on a daily basis. We conduct traffic safety training in an effort to protect the lives of these drivers, as well as to ensure that the products we handle are delivered safely.
+
+Taking a Variety of Approaches to Ensure Safe Driving
+First, before they are admitted to the crew, new drivers undergo approximately one month of retraining on driving techniques.
+They also undergo danger prediction training to help them
+ 
+
+11
+ 
+
+New drivers undergo approximately one month of retraining in driving techniques
+
+
+
+
+
+
+
+
+ 
+Traffic safety education in Thailand
+
+
+
+
+
+Toyota Tsusho
+Logistics Business Department
+Component delivery
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delivery of components to automobile parts manufacturers
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automobile parts manufacturers
+
+Production of automobile parts
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automobile manufacturers (such as Toyota)
+Automobile assembly
+ 
+
+
+
+
+Groundbreaking ceremony at the TTK GLOBAL TRAINING CENTER,
+a training facility under construction (scheduled for completion in September 2011)
+
+
+
+
+
+
+
+
+
+
+
+Consumers
+ 
+
+
+
+ 
+
+
+Delivery base (Thailand)
+ 
+Over- seas
+ 
+
+
+
+
+
+identify sources of danger that have led to actual accidents. We conduct a number of other initiatives, as well, such as accumulating information about dangerous routes from other drivers and compiling this information into a “risk map” handbook. We also incorporate other safety measures into daily activities. For example, to prevent potential accidents by drivers who feel unwell we conduct driver roll calls both before and after work and create driving logs as part of our thoroughgoing efforts to promote safe transportation.
+Furthermore, TTKL is building a specialized training facility
+(scheduled for completion in September 2011) that will encourage safety by simulating dangerous road conditions. We have great expectations for this facility, of which Japan has only a few and is the first of its type in Thailand.
+
+Concentrating on Transportation Quality Improvements and Environmental Preservation
+We are an avid proponent of efforts to enhance transportation quality and environmental preservation. As part of this focus, each month we prepare KPI* reports for each of our customers. These reports, which indicate monthly transportation performance, are designed to enhance customer satisfaction. By periodically reviewing delivery routes for individual customers, we work to reduce overall travel distances and lower CO2 emissions.
+* KPI: Key performance indicator
+ 
+Automotive Division
+
+Automotive Division Business in Africa
+ 
+
+
+
+Top Managers
+
+
+Middle Managers
+
+
+
+Staff
+ 
+
+Human Resource Development in Africa
+Design fair and highly transparent systems
+Merit compensation system, based on achievement of short-, medium- and long-term objectives
+Create opportunities for global rotation
+Cultivate next-generation leaders
+Build regional networks
+Create opportunities for planned rotations within the region, and promote aggressively
+Cultivate leadership and organizational skills
+Provide a workplace that is safe and secure and offers opportunities for growth
+Fair treatment (human resource systems, compensation structure) Extensive training programs (more than 80 hours per year)
+ 
+
+
+ 
+Uganda
+
+Angola Zambia Zimbabwe
+ 
+Kenya
+
+
+
+Malawi Mauritius
+ 
+
+
+Japanese-affiliated automobile manufacturers
+
+Production	 	
+ 
+
+ 
+
+South Africa
+ 
+Investments in 8 countries Operations in 16 countries
+ 
+
+Aiding the Development of African Society through our Operations and Social Contribution Activities
+Africa comprises 53 countries*, which vary greatly in size. Of these, Toyota Tsusho has operations in 24 countries, where it hires locally. Business centers on Toyota automobiles, but we also handle cars, trucks, buses and two-wheeled vehicles for multiple other Japanese-affiliated automakers. As a member of local society, we take part in initiatives designed to promote social development.
+* As of the date the original article was written. In July 2011, South Sudan declared its independence, raising this number to the current 54.
+
+
+ 
+Contributing to the development of the local community is the social responsibility of
+a company developing its business in Africa.
+Many African countries have experienced rapid economic growth in recent years, against a backdrop of surging internal demand and an abundance of natural resources. As a result, the African market has begun attracting attention. At the same time, a number of issues continue to plague the region, including gaps between rich and poor and local conflicts.
+Ahead of other companies, Toyota Tsusho was an early proponent of establishing ties with local communities in Africa and investing in business in the region. For example, we established Toyota Kenya Ltd., a wholly owned company that serves as a Toyota dealership. In line with the resolution of social issues in the region, we are working toward the popularization of automobiles, the cultivation of the human resources we employ and the region’s economic autonomy. At the same time, we are contributing to the
+community in such ways as encouraging school attendance and setting up streetlights.
+Takashi Hattori Managing Executive Officer (In charge of Africa region)
+ 
+Employing Creative Sales Methods to Promote the Spread of Automobiles and Play a Key Role in the Region’s Development
+In emerging markets, automobiles are valued assets because of their most familiar role in transporting people and goods.
+Automobiles are also inextricably linked with the development of infrastructure and industry.
+To make it easier for sole proprietorships and small and medium-sized businesses to purchase automobiles, we have introduced creative sales methods, including installment purchases and leasing. Naturally, however, as some of the financing methods we employ are non-standard, we explain the methods clearly beforehand and strive to provide the purchaser with as much information as possible.
+In addition, in Kenya we are setting up systems related to a secondary market in used vehicles, which are highly popular. These systems involve conducting scrupulous service and maintenance of vehicles before qualifying them as certified used cars, as well as careful attention to other aspects of quality control.
+
+Assisting the Skill Development of Locally Hired Employees and Executives
+Based on our conviction that people are the key to a country’s development, we strive to help locally hired employees enhance their skills and move ahead in their careers by providing training courses for different job categories and levels. For example, we
+ 
+
+13
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Middle managers from different African countries gather for Cross Regional Unit training, where they learn through discussions.
+ 
+
+Cultivate human resources
+ 
+
+Contribute to society
+ 
+
+
+
+Toyota Kenya Foundation’s fiscal
+2010 award ceremony
+ 
+
+Toyota Tsusho
+
+
+Automobile sales	After-sales service
+
+
+
+
+
+
+ 
+We have introduced various sales
+formats, such as installment payments and leasing, to facilitate automobile purchases.
+ 
+
+Consumers
+ 
+We work to enhance customer satisfaction by providing
+a stable supply of genuine factory and general-purpose parts and accessories and high-quality after-sales services.
+ 
+Offering Integrated Services, from Vehicle Sales to After-Sales Service
+In addition to offering vehicles for sale, automobile dealerships in African countries provide integrated services, such as selling spare parts and conducting after-sale maintenance. By offering guidance and training for local sales and service staff, we augment service levels and provide them with the opportunity to enhance their skills and careers.
+
+
+
+
+
+train service mechanics in personal computer use and business writing, helping them to develop a diverse set of skills. We also provide training on problem-solving methods, mainly for
+mid-level employees, by making use of case studies. In this category, we gather together local employees in each country for two to three days of discussion-based Cross Regional Unit (CRU) training. For executives of local subsidiaries, we have in place a system whereby executives cycle through positions at our subsidiaries in different countries every few years to help them gain international management expertise.
+
+Contributing to the Local Community via Scholarships and Streetlights
+We take a proactive role in social contribution activities that are gauged to individual countries’ circumstances. In Kenya, we established the Toyota Kenya Fund in 1990 to cultivate human resources by providing scholarships in the country. Through this program, to date we have provided scholarships to a total of 322 students. Through the education that this fund promotes, we aim to contribute to the sound development of Kenya’s society.
+Public safety and accident prevention measures are important social needs that are consistent in emerging markets. As one effort to address these needs, in 2000 Toyota Kenya Ltd. began a program to erect streetlights. As of 2011, more than 1,000 streetlights had been installed through this program.
+ 
+Machinery, Energy & Project Division
+
+Toyota Tsusho Affiliate Embarks on the Business of Power Generation Using Natural Energy
+Eurus Energy Holdings Corporation, a jointly capitalized company owned 60% by Tokyo Electric Power Company, Inc., and 40% by Toyota Tsusho, is in the business of using natural energy to generate power. Boasting the highest capacity of any wind power generation company in Japan, Eurus Energy operates wind farms in six countries and has a total generation capacity of 2 million kW.
+The company is also involved in solar power generation, which it began in South Korea in 2008. As of August 2011, the company’s solar power plants had a capacity of 48,968 kW. Expectations are focusing on this field, which is slated for continued growth.
+Principal Generation Facilities
+ 
+
+
+
+
+
+
+
+
+
+
+
+Toyota Tsusho 40% investment
+Tokyo Electric Power Company, Inc.
+60% investment
+ 
+
+
+
+Solar panel manufacturer
+(Sharp Corporation)
+
+Panel production
+
+
+
+
+
+
+
+Eurus Energy Holdings Corporation
+50%	 	
+investment
+
+
+NRG Group
+
+50%
+investment
+ 
+
+
+
+Helping Prevent Global Warming through Construction of Major U.S. Solar Power Plant in California
+The U.S. government has put in place a number of schemes to encourage the development of renewable energy, as part of proactive initiatives to help prevent global warming. Eurus Energy Holdings Corporation, an affiliated company of Toyota Tsusho, has constructed a solar power plant in the United States with capacity of 45,000 kW. This plant, the largest of its type in the United States, commenced operations in August 2011.
+
+
+ 
+We are helping to promote the spread of renewable energy in the United States.
+As the problem of global warming grows more pronounced, and the expanding energy demands of Asia’s emerging markets push the prices of energy resources ever higher, countries around the world are encouraging efforts to develop renewable energy.
+Spurred by U.S. government policies to promote such development, the amount of energy supplied through wind
+power generation and bioethanol is rising rapidly. Solar power generation is also a growing focus of attention, particularly in the Sun Belt area of
+the United States, which enjoys long, sunny days.
+In response to such demand, Toyota Tsusho affiliate Eurus Energy Holdings Corporation began building a solar power plant in California in 2010. This mega-solar plant, which is one of the
+largest in the United States with total output of 45,000 kW, commenced operations in August 2011.
+Kenichiro Nishikawa
+General Manager
+Power Project Development Department
+ 
+Government Stimulus Measures Expected to Promote Further Expansion of the Solar Power Generation Business
+Considering renewable energy as an effective way to combat global warming, the U.S. government has introduced incentives to promote its development. The government is also cultivating the industry because it sees renewable and related businesses as potential sources of new employment. The national government is supporting the industry through such measures as making the introduction of biofuels mandatory, investing in job creation and assisting technical developments. In addition, 37 states including California have introduced a system called the Renewable Portfolio Standard (RPS), which sets a minimum renewable energy percentage that power companies must exceed in the power that they provide.
+Owing to measures such as these, the amount of power generated from renewable energy is growing at a rapid pace in the United States; during the three years from 2005 through 2007, wind power generation and bioiethanol each grew by more than 30%. Furthermore, the region of the United States that is known as the Sun Belt, the area south of the 37th parallel, is particularly well suited to solar power and solar thermal electric generation. Going forward, solar power generation in the United States is expected to grow at an annual rate of around 40%, and expectations for other countries are running high, as well.
+ 
+
+
+15
+ 
+
+
+
+Photo courtesy of	 	                                                                            Sharp Solar Energy
+Solutions Group
+
+
+
+Power Plant
+Avenal Solar Holdings LLC
+Solar power generation
+Photo courtesy of Sharp Solar Energy Solutions Group
+
+Power sales
+ 
+
+
+
+
+
+
+California, United States
+ 
+
+Power Company
+(PG&E)
+
+Transmission/Distribution
+ 
+
+
+
+
+
+
+Power sales
+ 
+
+
+
+Consumers
+(Northern California)
+ 
+
+
+ 
+Avenal
+Solar Power Plant
+ 
+
+Solar Power Generation in Avenal
+Avenal Solar Holdings LLC, which builds and operates power plants, has established a 50–50 j venture with Eurus Energy America Corp.—the U.S. subsidiary of Eurus Energy Holdings Corporation—and the NRG Group, a local power company. The company sourced plant’s solar panels from Sharp Corporation. The electricity produced by this venture will be provided to Pacific Gas and Electric Company (PG&E) for use in Northern California.
+ 
+
+
+
+
+
+ 
+New Solar Power Plant to Provide 45,000 kW of Electricity—Enough to Power 10,000 U.S. Households
+Since its 1987 commencement of operations in the United States, in California’s Mohave Desert, Eurus Energy Holdings Corporation has developed its wind power generation business in the states of Texas, Oregon and Illinois. At present, the company’s total wind power generation capacity in the United States amounts to more than 586,960 kW.
+In 2010, Eurus Energy Holdings joined a local power company to begin construction on a solar power plant—one of the largest in the United States with a total capacity of 45,000 kW—in Avenal, California. The company concluded a 20-year contract to supply power to Pacific Gas and Electric Company (PG&E),
+ 
+
+
+
+Social and Market Trends
+
+As global warming grows more severe, countries around the world are focusing on the development of natural energy. In line with this trend, major progress has been made in the area of solar power generation since entering the 2000s.
+With global capacity amounting to 966 MW in 2001, by 2009 solar energy power generation capacity had grown by more than 20 times, to 20,381 MW. This proliferation is expected to continue.
+Cumulative Solar Power Generation Capacity
+(MW)
+ 
+California’s largest power producer. Through this agreement, the company will supply power equivalent to the annual consumption
+of 10,000 U.S. households. The plant began operations in
+ 
+25,000
+
+20,000
+ 
+Other countries
+20,381 Italy
+United
+ 
+August 2011.
+Meanwhile, to accelerate our business in the area of natural energy, in February 2010 we increased the capital of Eurus Energy Holdings through a shareholder allotment to Tokyo Electric Power Company, Inc. Toyota Tsusho will continue to focus on
+ 
+15,000
+
+10,000
+
+  5,000
+
+0
+ 
+
+
+4,2435,683
+966 1,3371,818
+ 
+14,193
+8,019
+ 
+States Japan
+Spain Germany
+ 
+the development and commercialization of natural energy.
+ 
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+ 
+(Year)
+ 
+Source: International Energy Agency Photovoltaic Power Systems Programme, 2010, “TRENDS IN PHOTOVOLTAIC APPLICATIONS Survey report of
+selected IEA countries between 1992 and 2009”
+
+
+16
+ 
+Chemicals & Electronics Division
+
+Bio-PET vs. Conventional Bio-Plastics
+ 
+
+
+Sugar cane refiner
+
+Sugar cane syrup residue
+ 
+Ethanol plant	
+
+
+
+
+
+
+
+
+Petrobras
+Refining
+
+Bioethanol
+ 
+Ceremony marking the establishment of Greencol Taiwan Corp.
+ 
+
+Brazil
+
+
+
+
+Toyota Tsusho 50% investment
+ 
+
+
+Aiming to Provide a Stable Supply of Bio-PET to Prevent Global Warming through Reduced Consumption of Oil Resources
+Bioethanol is an attractive alternative to fossil fuels, as its combustion does not increase atmospheric CO2. Contributing to this development, Toyota Tsusho Corporation is producing Bio-Polyethylene Terephthalate (Bio-PET) from sugarcane-based bioethanol and providing a stable supply to manufacturers of automotive interiors, apparel and PET bottles.
+
+
+ 
+We are meeting manufacturers’ needs with an integrated supply structure that consists of raw material procurement, manufacturing and sales.
+Facing limited oil resources and ongoing global warming, many manufacturers need suppliers to provide a stable supply of raw materials with less environmental impact. Toyota Tsusho Corporation is responding to such needs by establishing a Bio-PET supply chain.
+Our newly developed Bio-PET material offers the same quality as petro-derived plastics, which bottle and textile
+manufactures can easily incorporate into their products. Our current target is to
+put a structure in place that is capable of producing 1 million tons per year by 2015, and we are holding discussions with several potential partners.
+Shigeru Okumura
+General Manager
+Organic Chemicals Department
+ 
+Overcoming the disadvantages of conventional bio-plastics
+Although a variety of plant-derived plastics have been developed with a view to reducing our consumption of fossil-based resources, applications for many have been limited, since they contain polylactate, which has lower strength, heat resistance, durability and formability than their petro-based counterparts.
+We have begun work on the production of Bio-PET, a resin that is stronger than polylactate. Made from sugarcane-derived bioethanol, this Bio-PET has the same characteristics as
+oil-derived PET. In other words, Bio-PET can be used as an alternative to conventional PET without adjustment, which allows end users easy access to Bio-PET.
+
+Establishing an integrated structure spanning raw material procurement, production and sales
+Bio-PET is made from pure terephthalic acid (PTA) and mono-ethylene glycol derived from sugarcane-based bioethanol (bio-MEG). Bio-MEG accounts for approximately 30% of Bio-PET’s weight. As the raw material for the bio-MEG is the molasses that remains after sugarcane is refined,
+bio-MEG competes little with food products and does not cause deforestation.
+We will procure bioethanol from Petrobras, Brazil’s nationally operated oil producer, under a 10-year-contract commencing in 2012. Under this large-scale contract valued at approximately ¥70 billion, Petrobras will provide us with
+ 
+
+17
+ 
+
+
+
+
+
+Ethylene glycol production plant
+
+
+ 
+
+
+
+* 140,000 kl/year
+over 10 years
+from 2012
+
+
+Stable supply*
+
+Toyota Tsusho
+
+
+Taiwan
+ 
+
+
+
+
+
+
+Greencol Taiwan Corp.
+Production
+
+Bio monoethylene glycol
+ 
+
+
+
+
+
+
+
+
+
+Consigned production
+ 
+
+PET polymer facility
+
+
+
+
+
+
+
+
+
+PET manufacturer
+Production
+
+Bio-PET
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Sales
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Manufacturer
+
+PET products
+ 
+Terephthalic acid
+ 
+
+Towels
+ 
+Auto- motive interiors
+ 
+Bioethanol
+Bio monoethylene glycol production Bio-PET production
+Bio-PET sales region
+ 
+
+
+
+
+
+
+North
+ 
+Asia
+ 
+
+
+
+
+Bio-PET Supply Chain
+ 
+
+
+Japan, North America, European Union, Asia
+ 
+
+Drink bottles
+ 
+EU
+
+Asia
+ 
+
+Japan Taiwan
+Bioethanol
+ 
+America
+ 
+
+
+
+
+Brazil
+ 
+The conclusion of a long-term agreement with bioethanol supplier Petrobras will enable us to supply Bio-PET. A new company in Taiwan, of which Toyota Tsusho is a 50% owner, will produce bio monoethylene glycol, which will be transformed into Bio-PET products for Asian producers in cooperation with final product manufacturers.
+ 
+
+
+
+
+
+140,000 kiloliters per year on an ongoing basis.
+Bio-MEG, a processing intermediate, will be produced by Greencol Taiwan Corp., a joint venture we established with Taiwanese chemical manufacturer China Man-made Fiber Corp. in October 2010. The bio-MEG produced by this joint venture is to be supplied to Asian PET manufacturers, who will produce Bio-PET under consignment agreements. This set of arrangements amounts to an integrated Bio-PET supply chain ranging from raw material procurement to manufacturing and sales—the world’s first supply chain of its kind.
+
+Further expansion of our production and sales structures to meet growing demand in a wide spectrum of fields
+Toyota Motor Corporation began using the newly developed Bio-PET in some of its new models in early 2011. Eventually, the company plans to employ Bio-PET in as much as 80% of interior surfaces, including seats, carpets and areas where the application of conventional bio-plastics is technically difficult.
+We expect Bio-PET to find applications in a number of other fields, such as beverage bottles, apparel and electronic films.
+Global PET production currently amounts to 45 million tons per year. We expect this figure to increase to 60 million tons by 2015. Of this figure, we believe that around 5%, or 2.25–3 million tons, will be replaced with Bio-PET. Initially, we plan to maintain production at 200,000 tons per year, raising production and sales to 1 million tons by 2015.
+ 
+ 
+
+
+Japan: The World’s Largest Consumer of Tuna
+Japan accounts for approximately 30% of the world’s tuna consumption of around 2.08 million tons per year. Japan’s domestic catch amounts to only about 210,000 tons of this amount; the remaining 370,000 tons is imported from a variety of countries, including Taiwan, Mediterranean countries and Australia. As the world’s largest consumer of tuna, Japan bears a major responsibility for protecting tuna-related biodiversity.
+
+Produced in Japan
+210,000 tons
+Japanese consumption 580,000 tons
+Imported
+ 
+Consumed by countries other than Japan
+1.5 million tons
+ 
+370,000 tons
+ 
+
+Source:
+WWF Japan (Japanese only): http://www.wwf.or.jp/activities/2009/01/625530.html
+
+
+
+New Company to
+Farm Young Bluefin Tuna, Helping to Commercialize Complete Cultivation
+Bluefin tuna feature prominently in the Japanese diet, but overfishing is threatening global tuna populations. To address this issue, Toyota Tsusho has entered a partnership with Kinki University, which has introduced the world’s first system for the complete cultivation of bluefin tuna. We also established Tuna Dream Goto Co., Ltd., in the city of Goto, Nagasaki Prefecture, to provide a stable supply of bluefin tuna.
+
+ 
+We are shifting from “catching” to “cultivating,” as we work to preserve biodiversity while ensuring a stable food supply.
+From a biodiversity standpoint, bluefin tuna are an important species for protection. At the same time, we would like to ensure a stable supply of these tuna, as they are also an attractive source of food. Kinki University has helped to
+locate the key for solving this dilemma through its development of “complete aquafarming”
+technology for bluefin tuna.
+Toyota Tsusho established a new company, Tuna Dream Goto Co., Ltd., to apply these “complete aquafarming” techniques to cultivate bluefin tuna.
+In the past, fish farmers relied on the cultivation of natural tuna, which had been caught in the wild. This new method should contribute to
+their management stability.
+Satoru Nishide
+General Manager
+Foodstuff Business Development Department and President and Representative
+Tuna Dream Goto Co., Ltd.
+ 
+Growing Interest in “Complete Aquafarming,” as Overfishing Causes Number of Bluefin Tuna Caught in the Wild to Fall
+As bluefin tuna are one of the tastiest food fish, in recent years consumption throughout the world has increased. This has resulted in overfishing, which has caused catches to decline. The need to protect important natural marine resources while at the same time providing a steady supply of bluefin tuna to consumers has given rise to the need to boost production through fish farming. However, the farming of bluefin tuna as practiced in the past involved catching young tuna in the wild and cultivating them on preserves. This approach presented problems, both in terms of ensuring stable production and in preserving resources.
+To address this issue, for more than 30 years Kinki University has been pursuing research on the “complete aquafarming” of tuna. Complete aquafarming refers to the artificial cultivation of fish throughout their lifecycles, from the hatching of eggs to the cultivation of young fish and raising adult fish that become parents themselves.
+In 2002, Kinki University established the first complete aquafarming cycle. The results of this process are being shipped to Japanese fish farmers as “completely aquafarmed young tuna.”
+ 
+
+
+19
+ 
+Kinki University
+
+Parent fish cultivation
+
+
+
+Parent fish
+
+
+
+Feeding
+ 
+
+
+
+
+
+
+
+Fish farms
+
+Farming, shipping
+
+
+
+Market size
+ 
+
+
+Wholesaling, retailing
+ 
+Consumers
+ 
+
+
+
+
+Goto Co., Ltd.
+Release into the sea, intermediate cultivation
+
+
+ 
+Juvenile fish
+ 
+Young tuna
+ 
+6 cm	30 cm/500–700 g
+
+Young tuna, approximately 30 cm
+
+ 
+
+
+
+
+Goto Islands, Nagasaki Prefecture
+ 
+
+Preserve
+Tuna Dream Goto office
+ 
+Complete Cultivation and Supply of Farmed Bluefin Tuna
+Tuna Dream Goto Co., Ltd., a Toyota Tsusho subsidiary, cultivates juvenile bluefin tuna acquired from Kinki University into young tuna, and then supplies them to Japanese fish farmers. The farmers then cultivate the fish until they reach market size, when they are sold to wholesalers and retailers before reaching the consumer.
+ 
+
+
+
+
+ 
+
+Established New Company   in   Nagasaki Prefecture’s   Goto    Islands    to    Achieve Commercial Scale in Complete Aquafarming Popularizing the complete aquafarming of bluefin tuna requires that farmed young tuna be raised in large numbers to ensure a stable supply. This scenario presents the need for large-scale investment in extensive preserves and an increased number of purchasers. For these reasons, Kinki University began looking outside the academic community for a partner in this business. This search coincided with the timing of Toyota Tsusho’s own efforts to strengthen its food product business, and resulted in a technology agreement with the university involving the
+complete aquafarming of bluefin tuna. Under this alliance, Toyota Tsusho set up a new company to handle the intermediate cultivation of juvenile fish into young tuna. The peaceful, clean and extensive waters around the city of Goto, in Nagasaki Prefecture, were selected as the
+ 
+
+
+
+
+Stakeholder Comment
+
+Ikuko Nakao Mayor of Goto
+The city of Goto has worked with people throughout the region to establish itself as a base for the aquafarming of tuna, taking advantage of the natural abundance surrounding our island. I believe that the ability to provide a stable supply of juvenile fish suitable for farming in the ocean off Goto will prove a major benefit to our community. We look forward with anticipation to Tuna Dream Goto’s success.
+
+Shigeru Miyashita Fisheries Laboratory, Kinki University
+ 
+company’s base of operations. As we worked toward the establishment	 	
+ 
+of this new company, we looked for ways to contribute to local industry and ensure harmony with the local fishing population.
+The new company, Tuna Dream Goto Co., Ltd., was established in June 2010. At a marine preserve established near the city of Goto, on the island of Fukuejima, the company is currently in the process of cultivating artificially incubated juvenile fish (around 6 cm in length) provided by Kinki University into young tuna (around 30 cm).
+December 2010 marked the first shipment of these young tuna to fish farmers. We look forward to expanding this business going forward.
+ 
+The complete aquafarming technology for bluefin tuna that our laboratory has realized provides one potential solution to the problem of marine resource depletion. I see Tuna Dream Goto’s operations in this business domain as a success of our efforts to support industry through research—a “social research” success. Through the complete aquafarming of bluefin tuna, we hope to help ensure the sustainability of the world’s marine resources.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Reliable System
+for Collecting Used Paper Diapers from Nursing Care Facilities
+To meet a growing need as the Japanese population ages and the number of people who require nursing care increases, Toyota Tsusho is putting its skills as a trading company to work in developing high-value-added businesses related to nursing care. In one area of high demand—paper diapers for adults—we have developed an integrated system to support diaper sales, collection and disposal.
+
+
+ 
+The importance of nursing is growing,
+in line with the aging of Japan’s population.
+By leveraging its expertise as a trading company to create high-value-added services, Toyota Tsusho has developed a broad range of offerings related to the nursing care business, from the sale and rental of nursing care products to the provision of solutions for nursing care operators.
+One such business, an end-to-end service involving adult paper diapers, was developed by our subsidiary,
+Toyotsu Lifecare Corporation. In recent years, the number of nursing care institutions that
+employ paper diapers has been on the rise, as they permit better control of changing frequency and reduce potential patient skin irritations. Until now, however, the major issue with using paper diapers has been the question of hygiene management and
+appropriate waste disposal.
+Our end-to-end service,
+CLEAN FOREVER, addresses these problems.
+Tomonari Matsuno
+General Manager
+Life Style Business Department
+ 
+Developing a Variety of Businesses Related to Nursing Care across a Broad Range of Domains According to the 2010 national census, people aged 65 or older numbered 29.44 million, accounting for 23.1% of the Japanese population. Against this scenario of a rapidly aging society,
+Toyota Tsusho is developing a wide variety of businesses related to nursing care and corresponding to the keywords “reassurance, safety and comfort.”
+One such business is the rental of nursing care products, such as beds. For this business, we handle product sourcing and operate rental centers, and our subsidiary, Toyotsu Lifecare Corporation, handles product planning and customer service. Toyotsu Lifecare also provides other solutions for nursing care service providers, such as handling the factoring of nursing care benefits and invoicing for and collecting these benefits. Another subsidiary, GUTT REHABILITATION LTD., handles mail-order sales of nursing care products.
+
+Providing an Integrated Service for  Paper Diapers, from Sales to Collection and Disposal As the population ages, demand for adult paper diapers is increasing. Many nursing care facilities that previously used cloth diapers are switching to paper diapers for reasons of
+hygiene and to reduce employee workloads. This increase in paper diaper use presents the issue of how to dispose of used paper diapers in a hygienic manner.
+ 
+
+21
+ 
+
+
+
+
+
+
+
+Used paper diapers are completely sealed for temporary storage using the “multipail” method developed by Toyota Tsusho. This method prevents odors and liquids from leaking.
+
+
+
+
+
+Incineration plant
+
+
+
+Nursing Care Facilities
+
+ 
+Use
+ 
+
+
+Shippers
+
+Collection, transport
+
+
+
+
+
+
+Providing a Integrated System
+for Provision, Collection and Treatment
+ 
+
+
+
+
+Toyota Chemical Engineering Co., Ltd., others
+Intermediate processing
+ 
+
+
+
+
+
+
+
+
+
+Final processing companies
+
+Final processing
+ 
+With the cooperation of collection, shipping and intermediate processing companies, we have developed an integrated service, CLEAN FOREVER, for the sale, collection and disposal
+ 	   of paper diapers that we provide to nursing care facilities. Manifest document
+
+
+
+
+To resolve this problem, in 1993 we introduced the CLEAN FOREVER service which, in addition to selling paper diapers, expands our offerings to the collection of used paper diapers in specially sealed containers for hygienic disposal. This system has proven popular among care workers, as it helps to keep care stations clean while reliably outsourcing disposal.
+In this service, Toyota Chemical Engineering Co., Ltd., an intermediate processing company that has received municipal approval to handle this specialized operation, collects, transports and handles the intermediate processing of used paper diapers. In addition, we manage manifest documents to confirm that the diapers are processed appropriately, all the way to final incineration. These operations are also environmentally friendly, as we use specialized containers made of materials that do not emit noxious gases when incinerated.
+
+Studying the Possibilities of Commercializing Paper Diaper Recycling
+We are also looking into the possibilities of recycling the used paper diapers that we currently incinerate as waste. However, used paper diapers have a relatively low recycled pulp content, which is an issue we have not yet surmounted. We plan to continue concentrating on this problem however, and are working toward a recycling solution.
+ 
+
+
+Occupational Health and Safety Initiatives
+Based on the Toyota Tsusho Group’s Policies on Safety and Health, the Group promotes occupational health and safety initiatives that are designed to ensure the continuity of operations by ensuring the safety of all people who work at Toyota Tsusho and all those who are involved in its operations, including business partners and investees.
+
+
+
+Toyota Tsusho Group’s Policies on Safety and Health
+
+Recognizing that good communications are paramount for ensuring safety and health, top management places a high premium on dialogue with employees.
+While strictly adhering to relevant safety and health laws and the internal workplace business rules and procedures of our customers, we have established our own standards, as we work to raise the level of our safety and health management.
+We utilize occupational safety and health management systems and work to continually improve and maintain these systems as we aim to raise safety and health levels.
+To promote safety and health activities at all companies throughout the Toyota Tsusho Group, we will establish the necessary organizations and structures and clarify the locations of responsibilities.
+To progress with the creation of comfortable and healthy workplaces, we will provide all employees with sufficient and necessary education for ensuring their safety and health.
+
+
+
+
+
+We have safety management systems in place and promote the creation of a corporate culture that prevents accidents from occurring.
+
+ 
+Toyota Tsusho believes that ensuring the safety of its employees, as well as all other workers involved in its business, is a fundamental corporate responsibility, as well as a prerequisite for business continuity. Over the two-year period from fiscal 2009 through fiscal 2010, Toyota Tsusho experienced no serious workplace accidents. We thank all those who have been instrumental in achieving this excellent result.
+In reaction to major accidents that occurred since fiscal 2006, Toyota Tsusho issued safety and emergency declarations in August 2008 and rebuilt its framework for safety management. We established a Safety Management Improvement Committee and a Weekly Safety Meeting, creating a system for the regular sharing of initiatives related to occupational health and safety. We also set up the Toyota Tsusho Group OS&H Promotion Committee as an organization to manage occupational health and safety throughout the
+ 
+Group. One example of this committee’s efforts is the Conventions for “Zero Accident” Team members, which are attended by more than 150 “Zero Accident” Team members from sales divisions.
+On the training front, we sought to redouble awareness of potential dangers and prevent accidents from occurring by providing various types of occupational health and safety training in Japan and overseas. For example, we set up the Practical Safety Workshop and began producing safety training DVDs.
+Furthermore, for Group companies involved in manufacturing we began conducting plant inspections, safety diagnoses and risk assessments to keep dangers from materializing. When investing in new operations, we also screen for the existence of safety management systems and countermeasures, thereby ensuring that safety is incorporated into operations from the planning stages.
+One safety and health activity
+ 
+introduced in 2010 was the eradication of traffic accidents. In November 2010, Toyota Tsusho issued an emergency declaration on traffic safety and enacted divisional countermeasures.
+Via its safety initiatives, Toyota Tsusho pursues a “zero accident” policy throughout all Group operations. We are building a corporate culture that encourages people to speak out in the interest of accident prevention. In essence, we are pursuing a policy of “zero danger.”
+
+
+
+
+
+
+
+
+
+
+Mikio Asano
+Executive Vice President
+Safety and Health Management General Supervisor
+ 
+ 
+The Toyota Tsusho Group OS&H Promotion Committee is the core of our efforts to enhance occupational health and safety. The people in charge of improving occupational health and safety are known as “Zero Accident” Team members, and they promote safety management activities.
+
+ 
+Promotion Structure	
+We promote occupational health and safety throughout the Group.
+We have established the Toyota Tsusho Group OS&H Promotion Committee, which is chaired by the Safety & Health Management General Supervisor (Director). This committee’s objective is to enhance the structure for promoting occupational health and safety activities at Toyota Tsusho and its Group companies in Japan. The committee has three activity policies: eliminating situations that can lead to major accidents, ensuring the provision of thorough guidance on safety to logistics companies and suppliers, and providing guidance to general supervisors.
+These policies ensure we promote safety and health activities throughout the Group.
+The committee reported on occupational health management
+ 
+measures, the status of safety activities and its annual activity plans at the general committee meeting in August 2010.
+
+“Zero Accident” Team members are active in all departments.
+Under the supervision of the head of the sales division, “Zero Accident” Team members at all sales departments take part in safety management activities within their own sales departments, as well as in any Group companies that their departments are responsible for managing. They work to uncover any issues, propose countermeasures and manage the progress of activities.
+Furthermore, at our yearly conventions for “Zero Accident” Team members, these individuals report on their departments’ activities. In addition to awarding commendations for excellence, these conventions serve to strengthen initiatives.
+ 
+
+Structure for Promoting Occupational Health and Safety
+
+President
+
+CSR Committee
+
+ 
+Safety and Health Management General Supervisor
+(Director)
+Safety & Health Manager (Executive Officer)
+
+
+Division General Managers
+ 
+Safety Management Improvement Committee (monthly)
+•	Attendees: Division General Managers and Director in charge of “Zero Accident”
+•	Extends laterally and comprises division executives
+Weekly Safety Meeting
+•	Attendees: Heads of related business divisions and divisional members of “Zero Accident” teams
+•	Share information on accidents and disasters, including measures to prevent recurrence
+ 
+
+Toyota Tsusho Group
+OS&H Promotion Committee
+•	Safety & Health Managers (representative directors of Group companies)
+•	Companies attending: 52
+ 
+
+
+Safety & Global Environment Management
+Department	Related General Managers
+ 
+
+156 “Zero Accident”
+Team members at Sales Divisions
+ 
+
+
+Cooperation
+ 
+•	Devising plans for monitoring safety
+•	Safety training
+•	“Zero Accident” Team Member Convention
+•	Plant safety diagnoses and safety tours
+•	Meetings and guidance on measures to prevent accidents
+•	Operation of Practical Safety Workshop
+•	Administrative office for the Safety Management Improvement Committee, Weekly Safety Committee and Toyota Tsusho Group OS&H Promotion Committee
+ 
+•	General Manager of Human Resources Department
+•	General Manager of ERM Department
+•	General Manager of Safety & Global Environment Management Department (administrative office)
+ 
+
+
+ 	 	 
+ 
+Toyota Tsusho Group OS&H Promotion Committee
+ 
+Safety Management Improvement Committee
+ 
+Weekly Safety Committee
+ 
+
+
+Occupational Health and Safety Initiatives
+
+
+We aim to create and instill a culture of safety as part of our aim to ensure a workplace characterized by “zero accidents” and “zero danger.” In addition to its Group companies, Toyota Tsusho conducts safety activities spanning its entire value chain, including business partners and investees.
+
+ 
+Basic Stance
+We encourage safety management that includes Group companies and suppliers.
+Toyota Tsusho has consistently engaged in accident and disaster prevention activities since the Safety Management
+ 
+* Work stoppage rate: an indicator of accident frequency. The calculation is based on the number of accident-related casualties per 1 million working hours.
+Work stoppage rate = Number of deaths and injuries due to accidents ×1,000,000
+Total work hours
+
+Number of Incidents/Accidents and Work Stoppage Rate
+ 
+Office (reorganized into the Safety & Global Environment Management Department in 2007) was established in 1980. In fiscal 2010, the department conducted activities themed on eliminating situations that can lead to major accidents, ensuring the provision of thorough guidance on safety to logistics companies and suppliers, and providing guidance to management general supervisors.
+In fiscal 2011, we will add two new themes: “safety awareness transformation and speed,” and “making independent entities more ‘ visible.’” The second theme is aimed at ensuring that Group companies conduct safety
+ 
+Japan Overseas
+Japan
+       60 Overseas
+ 
+Number of work stoppage incidents Number of work stoppage incidents
+Work stoppage rate Work stoppage rate
+ 
+Number of major accidents Number of major accidents
+
+  3.0 
+ 
+activities of their own accord. These themes are linked to
+ 
+2007
+ 
+2008	2009	2010
+ 
+(FY)
+ 
+further enhancing our safety management systems, as well as building and instilling a culture of safety.
+
+Toyota Tsusho
+ 
+We strive to identify issues and implement measures that will allow us to achieve zero major accidents and reach our work stoppage rate* target.
+At its business sites in Japan and overseas, Toyota Tsusho conducts plant inspections, whereby top-level management and the leaders of business divisions take the initiative in checking safety. We also conduct “plant safety diagnoses,” which involve reviews of 10 items, including the management structure, the status of occupational health and safety committee activities, and the annual activity plan’s implementation status. Furthermore, we perform risk assessments in an effort to prevent accidents from occurring. These activities enable us to identify issues and implement countermeasures.
+In fiscal 2010, we had no major accidents. Our target work stoppage rates were 0.13 in Japan and 0.7 overseas. We also conducted plant inspections at 305 sites in Japan and overseas. We carried out plant safety diagnoses at 91 locations and risk assessments at 123 sites. A number of improvements were introduced based on the issues that came to light through these activities. For instance, worker areas and forklift travel areas were divided and identified with different colors, and vehicle parking locations were identified. Although we succeeded in achieving no major accidents, our work stoppage rate in Japan was up from the preceding year.
+Recognizing that many accidents occur as the result of risks that have not been identified or incomplete procedural manuals, in fiscal 2011 we will conduct a thorough review of procedural manuals as part of our risk assessments. By making the manuals easier to read, we will strive to ensure that we will again have no major accidents or residual disabilities, as well as reaching our work stoppage targets.
+ 
+Work Stoppage Rate at Group Companies Operating Factories (Fiscal 2010)
+
+	Metals	Energy	Others
+Target companies	15	5	17
+Employees	1,111	660	3,382
+Stoppage rate	0.44	1.64	0.95
+
+Business Partners	
+Our efforts to improve safety management include the formation of a Safety and Health Cooperation Council comprising approximately 550 suppliers.
+Through the cooperation of approximately 550 suppliers, we have formed the Safety and Health Cooperation Council, an organization that seeks to prevent accidents.
+The participating companies are segmented by area of specialization. They hold regular conventions, as well as study sessions, to share information related to safety management and trends on the indication of non-conformance. In fiscal 2010, we conducted training for construction supervisors, as well as for drivers who deliver products. To boost the level of management, we also conducted safety management training for executives.
+
+Investees	
+We conduct safety reviews of business investments at the planning stage to ensure construction safety.
+For business investments that involve construction, Toyota Tsusho works to ensure safety from the planning stage.
+The Safety Promotion Group of the Safety & Global Environment Management Department strives to ensure that construction is completed without any accidents or disasters. To this end, the group ensures that the five elements of the safe construction cycle are operating properly, thereby fulfilling our duty as a contractor to take safety into consideration.
+ 
+ 
+Toyota Tsusho recognizes that training personnel is one of the most important parts of promoting a culture of safety. In line with this understanding, the Company offers extensive training. We are also installing equipment capable of simulating danger and working to transmit safety information.
+
+ 
+Training	
+We are expanding rank-based safety training and cultivating in-house safety training instructors.
+We believe that human resource cultivation is where safety management truly begins. Based on this conviction, in addition to Group employees, we are expanding the scope of our safety training to include suppliers.
+In line with our aim of increasing safety awareness, the “Zero Accident” Team members who direct safety activities at sales divisions are required to undergo training upon appointment as a safety manager. In fiscal 2010, 113 people took part in this training, raising the cumulative total to 752. Rank-based safety training is also provided to new employees, mid-level employees, managers and executives, and we are expanding the scope of safety training to include suppliers.
+We support and help develop the instructors who provide this safety training in-house. Training is provided by employees who have received RST Trainer certification as instructors for occupational health and safety by the Ministry of Health, Labour and Welfare and the Toyota Group’s instructor certification for supervisory foreman education as “specialist instructors for all Toyota Tsusho personnel responsible for work operations.”
+At our workplaces, we also create a variety of safety training DVDs. Four DVD series are available: in the construction category,
+ 
+and overseas, as we are continually working to expand our safety assurance initiatives on a global scale.
+
+Safety training
+
+We have set up a Practical Safety Workshop to enhance employee sensitivity to danger.
+To heighten employee sensitivity to danger, in fiscal 2009 we established the Practical Safety Workshop at the Toyota Steel Center. In addition to simulating some 40 different types of danger, including squeezing and danger involving heavy items, employees of Toyota Tsusho and its
+Group companies attend the Safety and Health Cooperation Council, which has also been opened to business partners.
+In fiscal 2010, 1,299
+ 
+training covers working at high elevations, suspension operations and preventing electric shock; in the delivery category, lashing
+ 
+people used this facility.
+ 
+Practical Safety Workshop
+ 
+and crane operations; in the production category, responding to differences in production times; and the management category. We have distributed these DVDs to 337 business units in Japan
+
+
+Principal Training and Number of People Taking Courses (Fiscal 2010)
+Training topic	Target	Number of people taking courses
+Education and training for new employees	New employees	85
+Training upon appointment as a safety manager	
+
+
+
+Mid-level employees, managers	133
+Education for persons responsible for safety and health		9
+Supervisory foreman education		15
+Training for personnel posted overseas		139
+Education for persons responsible for construction	
+
+
+People in charge (including at Group companies and suppliers)	221
+Education for persons responsible for work operations		431
+Education for persons responsible for work operations at high elevations		435
+Education on prevention of electrical shock		441
+Training for top-level executives	Executives	490
+ 
+Providing Information on Safety	
+We provide information related to safety and health via the “Zero Accident” Room and OSH*-NET.
+We have set up the “Zero Accident” Room at our headquarters, where we provide information about Toyota Tsusho’s safety initiatives, as well as disaster case studies and training content. The facility is open to employees of Toyota Tsusho and its Group companies, and can be freely used by suppliers.
+In fiscal 2008, Toyota Tsusho set up OSH-NET, an electronic bulletin board. This site offers employees materials on safety and health management, disaster case studies, the minutes of various meetings and information on safety and health, all in a single convenient location.
+* OSH: Abbreviation for occupational safety and health
+
+Top page of the OSH-NET electronic bulletin board
+ 
+
+
+
+
+
+Human Resource Initiatives
+Toyota Tsusho pursues CSR initiatives from a personnel perspective. Our Principles concerning Employees stresses that, in addition to employee and corporate growth, human resources are essential to realizing its Corporate Philosophy of “Living and prospering together with people, society, and the Earth, we aim to be a value-generating corporation that contributes to the creation of a prosperous society.”
+
+
+
+Principles concerning Employees
+We aim to realize our management strategies without being constrained by past experiences or preconceptions and based on the watchwords “real source,” “real things” and “reality.” Accordingly, from the perspective of overall optimization, the Toyota Tsusho Group will employ, develop and advance employees who can cooperate and lead the way to an even better future.
+
+Key Points for Promoting CSR from an Employee Perspective
+
+ 
+Point
+
+
+
+Point
+
+
+
+Point
+
+
+
+
+Point
+ 
+Build an environment that allows employees to work with vitality.
+To enable a company and its employees to realize continuous growth, it is essential to create a workplace environment and systems that make employees’ work rewarding and fulfilling. With this in mind, we are devising a number of measures to build such an environment and systems.
+Create frameworks for promoting constant and autonomous reforms and improvements. We regard a company’s responsibility as enabling employees to act voluntarily with an unceasing desire to pursue reforms and improvements and self-initiative. Toyota Tsusho is building systems and frameworks that promote such actions.
+Develop human resources capable of responding flexibly, quickly and sincerely to changes in the environment.
+The management environment is evolving at a breathtaking pace. We will work to strengthen our business functions and develop human resources capable of continually undertaking sincere business activities within this management environment.
+Promote teamwork with an eye toward overall optimization as an organization.
+While maintaining respect for individuals, we also recognize the limitations of acting individually and are thus determined to create an organization that enables overall optimization. To do so, we believe it is essential to have a corporate culture that fosters mutual respect and ensures sufficient vertical, horizontal and diagonal communication. We are currently creating a framework for such a corporate culture.
+ 
+
+
+
+
+
+ 
+Personnel are one aspect of “overall optimization,” a core value that we pursue in our effort to provide higher value to our stakeholders. To put our Principles concerning Employees into practice, we strive to be fair in our employee performance evaluations. We also have systems in place to respect employees’ proactive job goals.
+
+ 
+Basic Stance	
+We work to conduct employee performance evaluations that are fair and performance-based.
+Toyota Tsusho considers “overall optimization” a core value that relates to all personnel activities, including hiring, training, evaluation and rotation. To exist as an organization and provide greater value to stakeholders, Toyota Tsusho believes that in addition to boosting individual performance, cooperation from multiple organizations and human resources is essential.
+ 
+Toyota Tsusho strives to evaluate employees based on their performance, without bias to gender, age or nationality. When determining performance levels each year, we require interviews with the person conducting the evaluations. We also hold coordination meetings at various stages of the process of deciding evaluations to ensure that employees are assessed from multiple perspectives.
+Similarly, we work to ensure fair and results-based systems of employee classification, compensation and rotation.
+ 
+Challenge Rotation
+We boost employee motivation toward their jobs by meeting their posting requests.
+Toyota Tsusho has in place a Challenge Rotation system, whereby the Company seeks to encourage high levels of job motivation by meeting employees’ requested postings.
+Challenge Rotation is a system through which we give job-posting preference to employees who have indicated a specific desire to obtain specific postings. The system is available to employees who have been handling the same job
+for five years or more and involves the presentation of a specific plan for an employee’s desired posting. In fiscal 2010, 13 employees took advantage of this system.
+ 
+
+ 
+Commendations awarded to organizations and individuals in Japan and overseas for success in realizing our corporate vision
+ 
+
+ 
+Commendation Systems
+ 
+Awards are available to employees who demonstrate success above and beyond their expected levels of performance.
+Every year, we present commendations to organizations and individuals in Japan and overseas in recognition of their efforts to realize our corporate vision.
+Awards are not limited to job performance by individual employees. Organizations achieving high levels of operating performance may receive the GV Award*, individuals who acquire Company-recommended certifications receive a commendation for obtaining qualifications, and individuals volunteering to make social contributions can receive a commendation for social contribution.
+* GV Award: Name derived from Toyota Tsusho’s flagship message, “G’Value with you”
+
+Principal Commendation Systems and Fiscal 2010 Award Recipients
+Name	Target	Recipient
+GV Award	Organizations achieving high levels of operating performance	40 organizations
+Commendation for obtaining qualifications	People obtaining Company- recommended qualifications	191 people
+Commendation for social contribution	Individuals volunteering to make social contributions	43 people
+Excellence award for proposing improvements	Individuals successful in making operational improvements	32 people
+ 
+System for Improving Labor–Management Cooperation
+ 
+We engage in regular dialog with the labor union and seek to maintain a positive and cooperative relationship.
+Approximately 70% of the Company’s employees, or 2,427 people, belong to the Toyota Tsusho Labor Union. Each year, labor union representatives meet with executives in charge of human relations approximately 10 times, convening the Personnel System Evaluation Committee to discuss personnel systems and other aspects of a work–life balance.
+Based on a cooperative relationship with the labor union, Toyota Tsusho encourages joint lectures featuring external instructors and contributes to an annual Christmas party sponsored by the labor union.
+
+Labor union-sponsored Christmas party
+ 
+
+
+
+ 
+To put The Toyota Tsusho Group Way into practice, we work with Group companies in Japan and overseas to develop individuals who can help develop the Company’s business on a global stage.
+
+ 
+
+Basic Stance
+We work to develop human resources that will put The Toyota Tsusho Group Way into practice.
+Toyota Tsusho implements a diverse range of educational and training programs to develop personnel capable of exemplifying the keywords of The Toyota Tsusho Group Way: “commercial spirit,” “real places, things and reality” and “team power” and raise employee skill levels. Furthermore, we focus on personnel who can share information throughout the Company and cooperate from the perspective of overall optimization.
+ 
+
+Education and Training
+ 
+We offer numerous opportunities for training and self- education to help employees improve their skill levels.
+Our Innovation Development Leader School, which targets young and mid-level employees, is designed to nurture an entrepreneurial spirit for the creation of new business. To maximize overall organizational performance from the perspective of overall optimization, we offer rank-based group training to employees in their fifth year at the Company and newly appointed executives. In addition, we have established
+ 
+
+
+Human Resource Initiatives
+
+
+Practical Knowledge Courses for younger employees and	People Dispatched Overseas for Foreign Language Study and
+ 
+implemented an array of training programs for studying business skills. We also support employee self-education by providing subsidies to cover course fees for correspondence courses and outside schools.
+Additionally, we provide this training and self-education support to employees at Toyota Tsusho’s Group companies as part of efforts to raise the quality of human resources training throughout the entire Toyota Tsusho Group.
+ 
+Their Study Locations (Toyota Tsusho, non-consolidated)
+ 
+(FY)
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+We have put in place an overseas language study program to enable employees to learn about local cultures and business customs.
+As a trading company, Toyota Tsusho posts employees to overseas assignments on a frequent basis. To help develop employees who can handle such postings, we have put in place an Overseas Foreign Language Study system for personnel in charge of specific tasks* who are in at least their second year of employment.
+Following one year of language study at an overseas university or language education institution, employees taking advantage of this system undergo approximately three months of practical training under the guidance of a representative stationed at an overseas branch or local office. This system functions both as a program that offers language study opportunities and enables participants to experience local customs and culture. It serves as a highly effective system for developing staff who will be posted overseas and also plays an important part in promoting employee career development and job rotations.
+* Personnel in charge of specific tasks: Employees who may be relocated to different regions. Also called career-track employees.
+
+With Chinese university classmates at training site
+ 
+We are promoting the advancement of executive-level personnel overseas.
+In recent years, our overseas business ratio has increased, and the need has grown to share our Corporate Philosophy, values and objectives globally. Accordingly, Toyota Tsusho is stepping up its efforts to train personnel hired locally at overseas branches and companies in The Toyota Tsusho Group Way and VISION 2015.
+We also work to develop personnel into managers at overseas business units. We have made the personnel systems at our primary business units consistent and introduced the Leadership Development Program for executive-level personnel. At the same time, at headquarters we offer training for employees prior to being posted overseas to make their transition to conducting business overseas as smooth as possible.
+Our Human Resources Department at headquarters dispatches its members overseas to handle local human resource requirements. The department is also working on a framework that will enable it to respond in English and Chinese. Since 2005, human resource managers from overseas subsidiaries have been sent to headquarters for a period of six months to a year. This initiative helps to develop human resources and promote Group solidarity in Japan and overseas.
+
+Leadership Development Program
+ 
+ 
+We promote employee awareness of respect for human rights through seminars that are designed to respect employee diversity and create a work environment that is fair and does not discriminate on the basis of gender, age, nationality or disability. We have also set up a consultation counter specializing in harassment issues.
+
+ 
+
+Basic Stance
+ 
+We strive to ensure respect for human rights, based on our Behavioral Guidelines.
+Toyota Tsusho’s Behavioral Guidelines state that we will “respect people, and create an active workplace worth working in.”
+In keeping with this principal, we prohibit discrimination on the basis of gender, age, nationality or disability and encourage the respect for human rights.
+
+Consultation Counter	
+We have set up a consultation counter specializing in harassment issues.
+In fiscal 2002, we set up a consultation counter to handle issues related to sexual
+harassment, power harassment and discriminatory language.
+In fiscal 2010, this desk handled five cases, which we resolved through cooperation from the Company’s in-house counsel.
+
+
+
+Awareness poster
+ 
+
+Training and Awareness Activities
+ 
+We conduct training and other initiatives to boost employees’ human rights awareness.
+To increase employees’ awareness of human rights, we conduct training activities, centered on the Human Resources Department. The Sales Division and Human Resources Department jointly conduct harassment seminars, which are attended by nearly all Toyota Tsusho employees. In fiscal 2010, we extended the scope of these seminars to include affiliated companies.
+We also conduct human rights and harassment training for new employees, as well as diversity training for new group leaders.
+
+Fair Hiring	
+Personnel in charge of hiring undergo human rights training and recruit in an unbiased manner.
+Toyota Tsusho’s hiring activities avoid discrimination based on gender, age, nationality or disability, instead focusing on fairly determining whether an individual’s abilities, skills, motivation and aptitude are consistent with the position Toyota Tsusho seeks to fill.
+To prevent discrimination and prejudice in our recruiting, those in charge of hiring are required to undergo training on human rights.
+ 
+
+
+
+ 
+Toyota Tsusho strives to be a company where all people can make a contribution, regardless of gender, age or disability. We also have systems in place to enable employees who are raising children to balance work and child-rearing.
+
+ 
+
+Basic Stance
+ 
+We have in place a variety of systems to meet our goal of being an organization that empowers many people with different abilities.
+In April 2006, Toyota Tsusho established the Diversity Promotion Office, which spearheads our effort to create a workplace that welcomes diversity, under the concept of “establishing an organization that allows everybody to fully utilize their capabilities without discrimination on the basis of gender or age and to create new value.”
+We take a varied approach toward creating a working environment that is comfortable for all employees. Our approach includes expanding our systems to support a work–life balance, provide training for women to develop their careers, promote the employment of people with disabilities, rehire retired workers, and promote diversity in a host of other ways.
+ 
+
+Encouraging Female Workers
+ 
+Our career development support includes offering nine-month practical career training.
+Toyota Tsusho has a number of initiatives in place to promote increased roles for women.
+We assist women in their career decisions by offering rank-based group training for female administrative staff*1 and long-term, nine-month practical career training. We also participate in the Chubu Diversity Net*2 seminar held for various industries and are working to create a network of female professionals that extends beyond our industry through activities that include cross-industry interchanges in Tokyo.
+*1 Administrative staff: Personnel who handle backup operations or routine tasks in a specific region.
+*2 Chubu Diversity Net: A volunteer organization established through an alliance of companies in the Chubu region to encourage corporate cultures that recognize and respect diversity among human resources by sharing information and initiatives. Toyota Tsusho is one of the lead companies.
+ 
+
+
+Human Resource Initiatives
+
+
+ 
+Work–Life Balance
+We have systems in place to help employees balance work and life.
+Toyota Tsusho is expanding a variety of systems to help employees balance work and outside life, such as child-care leave and a system of reduced working hours.
+We also hold family participation events such as “Welcome to Toyota Tsusho,” as well as others that support the efforts of employees who are raising children.
+ 
+
+Female Employees (Toyota Tsusho, non-consolidated) (FY)
+ 
+
+
+ 
+People Taking Child-Care Leave (Toyota Tsusho, non-consolidated)
+ 
+
+(FY)
+ 
+
+	2005	2006	2007	2008	2009	2010
+Female employees	15	18	17	27	24	37
+Male employees	0	0	2	2	0	4
+
+
+Children participating in the “Welcome to Toyota Tsusho” event
+
+
+Overview of Systems to Help Achieve a Work–Life Balance by Supporting Childbirth and Child Care (Toyota Tsusho, non-consolidated)
+Available only to women	Available to men and women
+ 
+Employing People with Disabilities
+ 
+We aim to provide a workplace where able-bodied people and people with disabilities can work together in a pleasant environment.
+We aim to provide a workplace in which people with disabilities and able-bodied people can work together harmoniously. To this end, we have installed Braille instructions on elevators and toilets and provide barrier-free facilities.
+We have also set up Toyotsu Office Service Corporation as a special subsidiary* under the Disabled People Employment Promotion Act, to encourage the hiring of employees with disabilities. As one move to increase our welfare offerings and promote the employment of people with disabilities, we have established
+in-house massage facilities with nationally certified practitioners of Amma massage. We have introduced a health maintenance system to support the hiring of people with visual disabilities.
+ 
+* Special subsidiary: A subsidiary that, subject to certain requirements, is considered jointly as a single operating location for the purposes of calculating the parent company’s percentage of employees with disabilities.
+
+
+Rehiring Retired Workers	
+We offer systems that meet diverse needs.
+Toyota Tsusho has set 60 as its mandatory retirement age. However, in fiscal 2006 we set up a system for rehiring former employees who wish to work after retirement.
+Under this system, employees who wish to be rehired take a one-month vacation prior to being rehired. Our system for rehiring retired workers is flexible and meets diverse requests such as reduced working hours.
+ 
+
+
+
+ 
+We encourage regular management and provide information to help employees remain physically and mentally healthy as they work.
+
+ 
+
+Routine Health Checks and Mental Health Activities
+ 
+We help employees maintain their physical and mental health through routine health checks and stress tests.
+Toyota Tsusho cooperates with its labor union to help employees manage their physical and mental health. We provide annual health examinations for all employees, check-ups for adult diseases for employees aged 30 and above, and health checks for employees posted overseas prior to their departure and upon their return.
+In addition, to prevent the onset of mental health conditions employees undergo stress
+ 
+
+Seminar Prior to Overseas Assignment
+ 
+We offer a seminar to boost overseas risk management capabilities.
+Toyota Tsusho holds seminars for employees and their families prior to overseas postings to help them understand such important topics as ensuring their own physical safety and managing their mental health. During the three years from fiscal 2008 through fiscal 2010, approximately 110 people per year participated in these seminars.
+In addition, after being posted overseas employees are provided on an as-needed basis with safety, health and medical information. We also have a system in place whereby a division is designated to enact measures in the event of an emergency and quickly ensure the employee’s safety.
+ 
+checks, which may be followed up with examinations by industrial physicians or discussion with consultation counter staff.
+ 
+Mental health guidebook
+ 
+
+ 
+Time Management
+ 
+We manage time appropriately to prevent health damage due to long working hours.
+To prevent employees from damaging their health due to long working hours, Toyota Tsusho has introduced a work monitoring system to ascertain the working hours of all employees. This system provides bimonthly checks of overly long working hours. Under this system, employees designated by the Human Resources Department as working overly long hours are required to meet with their superiors, and the detailed response requires direct improvements.
+In fiscal 2010, we introduced the First of the Month Paid Holiday Movement to encourage employees to take paid vacation time.
+ 
+
+
+
+
+
+
+
+
+
+
+Seminar prior to overseas assignment
+ 
+
+
+Approach to
+the Environment
+Toyota Tsusho considers its approach to the environment to be inextricably linked with its corporate philosophy of “living and prospering together with people, society and the Earth.” In accordance with the Toyota Tsusho Group’s Environmental Policy, all executives and employees share this understanding and perform their activities accordingly.
+
+
+
+Toyota Tsusho Group’s Environmental Policy
+
+As a responsible corporate citizen, we strive to reduce impact on the environment, conserve energy, recycle resources and eliminate environmental pollution, while placing a high priority on not disturbing the global environment in conducting business.
+We promote environment-related businesses, such as the efficient use of waste and the preservation of natural resources, and contribute to the realization of a recycling-oriented economy and society in collaboration with our affiliates and business partners.
+We comply with all environmental requirements, including environmental laws and regulations and industry guidelines.
+We participate in activities to reduce impact on the environment by establishing an environmental management system and continue to improve these activities through periodic review and the application of creative ideas.
+We enhance environmental awareness among directors and employees by providing environmental training and promoting a thorough understanding of our environmental policy.
+
+
+
+
+
+Global Environmental Responsibility
+
+ 
+As a member of the Toyota Group, which includes Toyota Motor, and as a trading company that understands manufacturing, Toyota Tsusho is involved in a number of fields.
+Toyota Tsusho understands that it cannot ignore the variety of environmental problems that arise in Japan and overseas as it conducts its business. Rather, we recognize that conducting business in an environmentally conscious manner is an obligation, and that social responsibility initiatives are a major part of our mission. By fulfilling this mission, we believe that we can realize our Corporate Philosophy, namely, “Living and prospering together with people, society and the Earth, we aim to become a value-creating company that contributes to the creation of a prosperous society.”
+Based on this understanding, as a member of the Toyota Group and in accordance with the Toyota Tsusho Group’s Environmental Policy, we aim to realize a recycling-oriented society, a low-carbon society and a society in
+ 
+harmony with nature. As well as pursuing initiatives to achieve these objectives, we work toward environmental preservation and the prevention of environmental pollution, in keeping with the Toyota Tsusho Environmental Management System. We also seek to resolve environmental problems as part of our operations, through our environmental business. In this sense, for some time we have taken part in resource recycling (such as iron, aluminum, precious metals and used paper), the sale of wind power and solar power generation systems, the biodiesel fuel business and sales of plant-derived polyethylene. We are also cultivating business in new fields. For instance, we are participating in the manufacture and sale of lubricating oil for fuel-efficient vehicles, have created a global supply chain for bio-PET and are participating in the solar power generation business in Canada.
+The new vision recently formulated by the Toyota Tsusho Group, the GLOBAL 2020 VISION, reconfigures
+ 
+our contributions into three fields of business: the evolution of
+next-generation automobiles, further improvements in living conditions and to help solve global issues. In each of these fields, we are promoting businesses that will redouble our environmental focus. As a company that recognizes its responsibility toward the global environment and sustainable business, we are working to ensure that we leave behind a bountiful global environment for future generations.
+
+
+
+
+
+
+
+
+
+
+Mikio    Asano Executive Vice President Environmental Management General Supervisor
+ 
+ 
+Toyota Tsusho and its Group companies in Japan and overseas use the same environmental management system and work together to realize the Toyota Tsusho Group’s Environmental Policy on a groupwide basis.
+
+ 
+Promotion Structure	
+We are stepping up our environmental management efforts, focusing on our Conference on the Global Environment.
+Toyota Tsusho’s environmental management centers on our Conference on the Global Environment. Participants include the environmental management general supervisor, environmental management representative and division general managers, as well as environmental management representatives of Group companies. This forms the structural basis for our groupwide environmental management initiatives.
+Our conference takes place at least once a year to review our environmental management and share case studies involving major improvements on environmental issues, as well as examples of noncompliance. The information shared at these conferences is distributed throughout the entire Company and our Group companies.
+
+Advanced Environmental Evaluation of New Businesses
+To prevent environmental pollution, we conduct advanced evaluations on the state of compliance with laws and regulations and pollution-prevention measures.
+The Global Environmental Management Group fulfills Toyota Tsusho’s managerial responsibilities with regard to new businesses. The group conducts environmental assessments
+ 
+from the planning stages, to ensure environmental measures are incorporated and compliance with environmental laws, regulations and initiatives to prevent environmental pollution. Environmental assessments conducted prior to the start of a business address the so-called “seven types of pollution*” and evaluate the environmental effect of the business in 10 categories, including industrial waste, hazardous chemical substances and hazardous inflammable substances. In fiscal 2010, the group evaluated 75 projects in the metal processing, water processing, overseas car dealership and other businesses.
+* Seven types of pollution: Air pollution, water contamination, soil contamination, noise, vibration, ground subsidence and offensive odors
+
+Emergency Response	
+We have put in place emergency communication procedures and set up a system to ensure reporting within one hour.
+Toyota Tsusho has set up emergency communication procedures in preparation for emergencies, such as exceeding environmental standards established by laws, regulations and ordinances or in agreement with the community, or complaints from local residents or governments. This system is designed to ensure that in the event of an accident, the department in which the problem arose takes immediate steps to minimize risk and reports to related departments within one hour.
+We are also thorough in our recurrence prevention efforts. Even in non-emergency situations, such as accidents or close calls having little environmental impact outside our site, but
+ 
+
+Environmental Management Promotion Structure
+ 
+
+Board of Directors
+
+
+
+
+President
+
+
+Chief Division Officers Deputy Chief Division Officers
+Director (Domestic)
+ 
+
+
+
+CSR Committee
+
+Environmental Management General Supervisor (Managing Director)
+
+Environmental Management Representative (Director in charge of Safety &
+Global Environment Management Department)
+
+Safety & Global Environment Management Department (Secretariat)
+
+Conference on the Global Environment
+ 
+
+
+Members
+Environmental Management General Supervisor Environmental Management Representative Chief Division Officers
+Environmental Management Representatives at Toyota Tsusho Group companies (full-time representatives)
+Auditors
+General Managers of Planning Department of respective divisions
+General Manager of Corporate Planning Department General Manager of General Administration Department General Manager of ERM Department
+General Manager of Safety & Global Environment Management Department
+General Manager of Overseas Supervisory Department
+
+Aims of our Conference on the Global Environment
+ 
+
+
+
+
+Divisions
+ 
+
+
+
+Domestic subsidiaries and affiliates
+ 
+
+
+
+Overseas subsidiaries and affiliates
+ 
+
+
+
+Branches and Offices
+ 
+
+Promoting Improvements in Environmental Activities
+Ensure thorough deployment of top management directives
+Present cases that show improvement in critical environmental issues
+Prevent recurrence of noncompliance (lateral deployment)
+ 
+Note: Each department, branch and office assigns primary and secondary environmental leaders. Additionally, each Group company assigns primary and secondary environmental leaders as well as internal auditors to work under the persons in charge of environmental management.
+ 
+
+
+Approach to the Environment
+
+
+ 
+exceeding our voluntary standards, reports must be submitted to the Global Environmental Management Group describing measures to prevent recurrence.
+
+Establishment of an Environmental Management System
+We are encouraging ISO 14001 certification at Group companies in Japan and overseas.
+Toyota Tsusho is pursuing a course of consolidated environmental management on a global basis as a way to promote its environmental preservation efforts and prevent environmental and other risks from materializing. As a common tool to help achieve this objective, we encourage Group companies in Japan and overseas to acquire certification under ISO 14001 international standards for environmental management systems. Two companies in Japan and two overseas acquired this certification in fiscal 2010. As a result, as of March 31, 2011, we had received ISO 14001 certifications for 65 companies in Japan and 153 overseas. Following certification, companies undergo semi-annual internal audits to verify the effectiveness of this system.
+Group companies in Japan and overseas also use the same environmental management manuals. In addition to posting these manuals on our intranet, we ensure their widespread distribution by handing them out at ISO seminars.
+
+Internal and Third-Party Audits	
+Our audits prioritized three items, including plans for reducing CO2 emissions and systems for risk
+management and compliance with laws and regulations. We perform internal audits to ensure that our environmental management system is operating effectively. In fiscal 2010, 95 Toyota Tsusho departments and 66 Group companies underwent such audits. Priority items in fiscal
+2010 included reporting environmental management
+ 
+risk management and compliance with laws and regulations, the progress of initiatives for environmental business and the deployment status of items pointed out in previous audits. Audit results indicated no major problems in any of these categories.
+We also implemented third-party ISO audits (update audits) via external audit institutions for 81 Toyota Tsusho departments and 56 Group companies in fiscal 2010. We set as priority audit items unification of the management system, target management, and compliance with environmental laws and regulations.
+Consequently, we were able to confirm that all management was being conducted appropriately and that environmental management systems were operating properly.
+
+Developing Environmental Management Personnel  
+We are training 380 internal auditor candidates. Each year, we conduct ISO seminars to help develop internal auditors. In fiscal 2010, we held these seminars for the first time at our Osaka Branch, as well as continuing to hold them at the Nagoya Head Office and the Tokyo Head Office. A total of 380 people participated, including 126 from Toyota Tsusho and 254 from Group companies. Training covered 1) ISO activity schedules,
+2) revisions to environmental legislation, 3) operations management,
+4) evaluation of the state of compliance with laws and regulations and 5) advance deliberation of environmental measures with regard to investment projects.
+We also hold semi-annual internal audit seminars for the internal auditors of Group companies in Japan and people in charge of the ISO administrative office. These are designed to raise the level of internal audits.
+In fiscal 2010, 156 people participated in these seminars, which covered such themes as ISO 14001 internal audit plans and internal audit checklists, and internal audit insights and
+ 
+general supervisor directives at our Conference on the Global Environment, CO2 reduction plan progress, management and status of target achievement, systems for
+ 
+
+
+
+
+
+Internal audit
+ 
+evaluating corrective measures.
+ISO Seminars (Fiscal 2010)
+ 
+ISO seminar (Osaka)
+ 
+
+Internal Audits (Fiscal 2010)
+Toyota Tsusho (non-consolidated)	Group companies
+95 departments	66 companies
+Third-Party Audits (fiscal 2010)
+Toyota Tsusho (non-consolidated)	Group companies
+81 departments	56 companies
+
+Annual Schedule of Environmental Activities
+ 
+
+Internal Audit Seminars (Fiscal 2010)
+
+	April–May 2010	March 2011	Total
+Nagoya	60	38	98
+Tokyo	35	−	35
+Osaka	14	9	23
+Total	109	47	156
+ 
+
+ 
+ 
+ 
+As a member of the Japan Foreign Trade Council, Inc., we participate in voluntary action plans to achieve Kyoto Protocol targets for the reduction of greenhouse gases through efforts to reduce our energy consumption and CO2 emissions.
+
+ 
+
+Reducing CO2 Emissions at Offices
+ 
+We are introducing solar power generation systems and encouraging cool business attire in summer and warm business attire in winter.
+As a member of the Japan Foreign Trade Council, Inc., Toyota Tsusho participates in a voluntary action plan formulated by the council to achieve the Kyoto Protocol’s greenhouse gas reduction targets. Our target is to reduce average annual energy use by around 2,854 tons from fiscal 2008 to fiscal 2012. The target involves the reduction of electricity and gas used at 26 of our offices.
+To lower the amount of electricity used in heating and cooling, we have set air conditioners at 28°C in summer and 22°C in winter. We have also posted signs in all elevators at headquarters and in various other locations to encourage cool business attire in summer and warm business attire in winter. In addition, we are introducing solar power generation systems and installing louvered shades on windows to help conserve energy used in air conditioning.
+ 
+
+Reducing CO2 Emissions at the Metals Division
+ 
+We are installing energy-saving equipment and introducing kaizen (improvement) activities to curtail CO2 emissions.
+In the Metals Division, we are expanding our molten aluminum business, through which we provide customers with recycled aluminum alloys from waste aluminum products and the waste generated during production processes. At factories, we are promoting efficient energy use by introducing regenerators* and other energy-saving equipment. At the same time, we are curtailing energy use through the culmination of various kaizen (improvement) activities.
+As a result of these efforts, by the middle of fiscal 2010 we had reduced energy use approximately 330,000 kcal/ton on a production unit basis, compared with March 31, 2009, levels. This equates to a CO2 reduction of 28,000 tons of CO2 per year.
+* Regenerators: Burners that raise combustion efficiency by reheating exhaust heat in the air, for use in combustion air.
+ 
+
+Office CO2 Emissions (Toyota Tsusho, Non-Consolidated)
+  4,000	100 
+
+  3,500 	3,456					
+  90	
+
+  3,000 		3,085	3,120	2,836		
+  80	
+  2,500 		62.9			2,286	  70	
+  2,000 	52.4		54.8	49.4		  60	
+  1,500 						  50	
+
+  1,000 					36.3	
+  40	
+
+     500 					 	
+  30	
+0						20
+ 
+2006
+ 
+2007
+ 
+2008
+ 
+2009	2010
+ 
+(Fiscal years)
+ 
+Molten aluminum business
+ 
+
+CO2 Emissions from the Molten Aluminum Business
+150,000	600 
+
+
+
+
+
+
+Natural lighting (Toyota Branch)	Solar power generation
+(Hokkaido Branch)
+
+
+ 
+2008
+ 
+2009	2010
+ 
+
+(Fiscal years)
+ 
+
+
+
+
+ 
+Louvers for protection from sunlight (Toyota Branch)
+ 
+Encouraging cool business attire in summer and warm business attire in winter
+ 
+
+
+Approach to the Environment
+
+
+ 
+Reducing CO2 Emissions at Group Companies in Japan
+ 
+We met our target of a 3% year-on-year reduction on a unit sales basis by streamlining production through the consolidation of manufacturing facilities.
+To lower CO2 emissions at all 65 Group companies in Japan, we are installing skylights at principal factories to reduce illumination requirements, reducing the standby requirements of compressors by turning them off when not in use and consolidating production facilities that are similar.
+In fiscal 2010, we met our target of reducing CO2 emissions by 3% on a unit sales basis by continuing with activities that we had already put in place. As a result, total emissions were down 13% year on year, to 40,361 t-CO2. This amounts to a savings per sales unit of 70.3 t-CO2/million yen, or 22% year on year, thereby reaching our target*. In fiscal 2011, we aim to achieve a further 1% reduction.
+* The coefficient used in calculating emissions was revised in fiscal 2010.
+ 
+Reducing CO2 Emissions during Transport
+ 
+We are promoting the reduction of CO2 emissions centered on two companies that are “specified consigners*” under Japans’ Law concerning the Rational Use of Energy.
+Toyota Tsusho and Toyota Steel Center Co., Ltd., which are certified as specified consigners under Japans’ Law concerning the Rational Use of Energy, aim to reduce CO2 emissions 1% per year on a unit sales basis. To achieve this, the two companies are promoting a modal shift from trucks to rail transport, which emits less CO2. They are also increasing container loading ratios and shortening distribution routes to make truck transportation more efficient. Measures such as these are designed to reduce CO2 emissions during product transport and other aspects of logistics.
+Through these initiatives, Toyota Tsusho has succeeded in reducing CO2 emissions per sales unit by an average of 2.7% per year between fiscal 2006 and fiscal 2010. Future initiatives will focus on such activities as consolidating processing base logistics and increasing the percentage of vehicles equipped with digital tachographs.
+* Specified consigners: Companies that transport 30 million tons or more of cargo per year
+ 
+
+CO2 Emissions during Transport (Toyota Tsusho, Non-Consolidated)
+
+ 
+
+Skylights (Toyotsu New Pack Co., Ltd.) Right: exterior view; left: interior view
+
+CO2 Emissions at Group Companies in Japan
+ 
+
+20,000
+ 
+19,100
+ 
+17,300
+ 
+
+3.0
+ 
+
+ 
+ 
+60,000
+ 
+200
+ 
+2006
+ 
+2007
+ 
+2008
+ 
+2009	2010
+ 
+(Fiscal years)
+ 
+CO2 Emissions during Transport
+(Toyota Steel Center Co., Ltd.)
+20,000	80
+15,000	16,500	16,400
+12,500	10,300 9,800
+67.0	63.0	60.4	54.0	51.1	70
+10,000		60
+5,000		50
+0		40
+ 
+2006
+ 
+2007
+ 
+2008
+ 
+2009	2010
+ 
+(Fiscal years)
+ 
+2006
+ 
+2007
+ 
+2008
+ 
+2009	2010
+ 
+(Fiscal years)
+ 
+
+
+
+ 
+We work to use limited resources as effectively as possible.
+
+ 
+
+Reducing Waste and Promoting Recycling	
+We are converting to the use of multifunctional office devices and reducing the amount of copy paper we discard as waste.
+Toyota Tsusho promotes the 3Rs: reduce waste, reuse products and recycle resources. At our offices, for example, in place of the stand-alone printers, copiers, facsimile machines and scanners that were commonplace in the past, we are switching to multifunctional devices and reducing the amount of copy paper we discard as waste.
+In fiscal 2010, however, the relocation of our Tokyo Head Office caused a spike in waste generation. As a result, waste generation was down only slightly year on year and our recycling rate edged down to 75%.
+ 
+Waste Generation and Recycling Ratio (Toyota Tsusho, Non-Consolidated)
+
+1,000
+ 
+ 
+
+
+2006	2007	2008	2009	2010
+Scope: Nagoya Head Office, Tokyo Head Office
+ 
+
+
+
+
+100
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Fiscal years)
+ 
+ 
+We pursue a variety of initiatives to raise employee awareness of environmental problems.
+
+ 
+
+Boosting Employee Awareness	
+We strive to spark employees’ environmental awareness through e-learning and monthly environmental campaigns.
+Toyota Tsusho is also promoting initiatives to heighten the
+ 
+
+Environment Meeting, we promote the All-Toyota Global Environmental Awareness Month every June. In fiscal 2010, we invited Ms. Kaori Fujita of the Nikkei BP Environment Business Forum to teach an environmental seminar. We also participated in the screening of Blue Gold: World Water Wars, a movie addressing the relationship between major corporations and water.
+ 
+environmental awareness of general employees. For example, in fiscal 2009 we began conducting an intranet-based e-learning course on eco-verification.
+We also conduct joint environmental activities with the Toyota Group. As a member of our All-Toyota Production Environment Conference and our All-Toyota Production
+ 
+e-Learning Course Participants
+ 
+
+(Fiscal years)
+ 
+
+
+
+ 
+Through our businesses, we work to realize the tenets of our Corporate Philosophy, “living and prospering together with people, society and the Earth.”
+
+ 
+
+Addressing Environmental Problems
+through Our Operations	
+We are developing businesses aimed at recycling and helping to reduce global warming.
+Toyota Tsusho is developing a variety of businesses in its aim of contributing to the formation of a recycling-oriented society. For example, we have begun a recycling business that takes advantage of our long track record in steel and aluminum. To help prevent global warming, we are also working to popularize wind and solar power generation systems.
+ 
+
+Toyota Tsusho’s Environmental Business
+
+Resource recycling	Recycling of iron, aluminum, precious metals, used paper, wood
+Renewable energy	Sales of wind power and solar power generation systems
+New energy	Biodiesel fuel business
+New materials	Sales of plant-derived polyethylene
+Animal waste treatment	Sales of composting system for animal waste
+ 
+
+Toyota Tsusho’s Resource Recycling Support Functions
+ 
+
+
+Social Contribution Activities
+We pursue activities along three key themes—education (people), the environment (Earth) and welfare (society)—in accordance with our Corporate Philosophy of “living and prospering together with people, society and the Earth.”
+
+
+
+Basic Policy for Social Contribution Activities
+As a good corporate citizen, Toyota Tsusho will contribute to the realization of a prosperous society by implementing social contribution activities worldwide with the aim of ensuring “harmonious co-existence and co-prosperity with people, society and the Earth.”
+
+Promotion of Activities
+Toyota Tsusho positions people (education), the Earth (environment) and society (welfare) as key themes in light of its Corporate Philosophy, and vigorously promotes social contribution activities around the world to help realize a more prosperous society. In terms of specific activities, we select and implement substantive and effective programs that strike a balance among the following three approaches of “by company,” “by officer and employee” and “by business activity.” Toyota Tsusho also encourages officers and employees, supporting their participating in these activities, while the Company as a whole voluntarily participates in activities in an autonomous manner aimed at realizing the creation of a prosperous society and fulfilling our social responsibilities.
+
+
+
+
+We work to encourage the growth of children—the stewards of the future—and educate employees on how to foster a nurturing spirit themselves.
+
+ 
+Participating in Initiatives to Deliver Picture Books to Children in Asia
+Since 2007, Toyota Tsusho has taken part in the Campaign to Deliver Picture Books, which is run by the Shanti Volunteer Association. This initiative delivered Japanese picture books, with stickers bearing local-language translations, to children in other Asian countries. In addition to sharing the joy of reading picture books, the program is helping to raise the literacy rate.
+In fiscal 2010, 447 employees took part in this campaign, which donated 601 picture books to children in Myanmar and Cambodia. Participants commented that “I enjoyed taking part.” and “thinking of the local children makes me happy.”
+
+
+
+ 
+Smiling as they work, thinking of children in Southeast Asia
+ 
+
+ 
+Rendering picture books they enjoyed as children into local languages makes participants happy, too
+
+Children at a refugee camp in Myanmar reading a picture book
+©Yoshifumi Kawabata
+ 
+We provide scholarships to students in Kenya to help educate the people who will contribute to their country’s development.
+Toyota Tsusho believes that education is one of the most important ways in which it can promote development in poverty-stricken Africa. To this end, in 1990 Toyota Tsusho set up a scholarship system, the Toyota Kenya Fund, to help educate the youth who hold the keys to their country’s future, but might otherwise find it economically difficult to further their education. Between the time it was established and 2008, the fund had supported the education of 257 people.
+In fiscal 2010, the fund provided scholarships to 25 youths, studying in such fields as medicine, engineering and the environment.
+ 
+
+ 
+Students who received Toyota Kenya Fund scholarships
+ 
+
+
+
+ 
+We take part in a host of environmental preservation initiatives as we work to pass on a beautiful earth to future generations.
+
+ 
+We planted 1,100 saplings to assist in the reforestation of Mt. Fuji.
+Since fiscal 2008, Toyota Tsusho has been taking part in the Mt. Fuji Reforestation Project, conducted by OISCA-International. In cooperation with several companies, the organization is working toward the reforestation of a
+100-hectare area near the village of Narusawa, in Yamanashi Prefecture, that has suffered damage from disease and pests.
+Fiscal 2010 was the second consecutive year in which our efforts in this project have involved
+reforestation. Some 92 of our employees and their family
+members from Tokyo, Nagoya, Osaka and other parts of Japan took part in the project, in which we aimed to plant 1,100 trees over
+a period of approximately
+ 
+We support an NGO that is clearing away landmines in the African country of Angola.
+Since 2008, Toyota Tsusho has been a corporate member of the Japan Mine Action Service (JMAS), an NPO that works to clear away landmines in various parts of the world. We support the organization’s activities in Angola.
+In addition to clearing away landmines, the NPO regional reconstruction activities in Angola include helping to build roads, clear arable land and build school facilities. Toyota Tsusho supports these efforts by providing and maintaining vehicles, which are essential to the effort, as well as by donating staff quarters.
+ 
+two hours.
+ 
+Wood guards, which keep deer from damaging the newly planted saplings
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Employees gather for a photo, with Mt. Fuji in the background
+ 
+Clearing away landmines in Angola
+ 
+
+
+Social Contribution Activities
+
+
+Toyota Tsusho aims to build a harmonious society filled with smiling faces.
+
+ 
+The employee cafeteria of our Tokyo Head Office participates in the TABLE FOR TWO program to provide school lunches to children in developing countries.
+Toyota Tsusho participates in the TABLE FOR TWO (TFT) program, which has the dual aims of helping to alleviate starvation in developing countries and fighting obesity and lifestyle diseases in developed countries. The program, conducted by the NPO TABLE FOR TWO INTERNATIONAL, involves setting healthy menu standards for meals at participating employee cafeterias. Each time an employee orders one of these healthy meals, a ¥10 donation from the price of the meal is matched by ¥10 from the Company. The resulting ¥20 donation is enough to provide one meal to a schoolchild in Africa.
+In fiscal 2010, the employee cafeteria at our Tokyo Head Office joined our Nagoya Head Office as a TFT program participant. During the year, 14,150 healthy meals were consumed through this program, providing an equal number of school lunches in Africa.
+
+We support microfinance as a way to fight poverty. Toyota Tsusho supports a microfinance initiative through the NPO PlaNet Finance Japan. Microfinance is designed to help alleviate poverty by providing small, low-interest loans to help fund poverty-stricken people’s efforts to improve their plight. Continuing
+
+Chicken breast fillets stewed with eggplant, a popular TABLE FOR TWO menu offering
+
+TFT donations providing school meals for children in Africa
+ 
+on from our fiscal 2009 efforts, in fiscal 2010 we helped to fund a project involving the use of biodiesel fuel to supply power to a region of Benin, Africa, without access to electricity.
+In fiscal 2011, we will begin supporting a program called University Meets PlaNet Finance (UMPF). Targeting Japanese university students having an interest in microfinance, this program teaches students about microfinance and alleviating poverty, as well as other methods of using business to encourage sustainable development.
+
+In Hong Kong, we participated in a charity walk to provide donations for disadvantaged children and related institutions.
+In January 2011, 23 employees of our wholly owned Hong Kong subsidiary, Toyota Tsusho (Hong Kong) Corporation, participated in a 10 kilometer charity walk sponsored by The Community Chest of Hong Kong, an organization affiliated with the government of Hong Kong. Money raised through the walk was donated to disadvantaged children and facilities that support them.
+In addition to their own offerings, employees solicited donations from friends and family members. The volunteers raised a total of HK$5,360 in donations.
+
+
+Using microfinance to help people get into business (Benin, Africa)
+
+Learning about social welfare by participating in a charity walk
+ 
+
+
+
+
+
+Governance
+By living and prospering together with people, society and the Earth, Toyota Tsusho aims to become a value-creating company that contributes to the creation of a prosperous society. Our governance efforts are aimed at helping us to realize this Corporate Philosophy.
+
+
+
+
+Based on a corporate auditor system and an executive officer system, we pursue increased management efficiency, transparency, thorough compliance and a sound financial position.
+
+ 
+Basic Stance	
+We pursue initiatives on the basis of our Corporate Philosophy.
+Our initiatives are designed to fulfill the Toyota Tsusho Group’s Fundamental Philosophy. In other words, by “living and prospering together with people, society and the Earth, we aim to be a value-generating corporation that contributes to the creation of a prosperous society.” To realize this fundamental goal, the Company is actively pursuing increased management efficiency, transparency, thorough compliance and a sound financial position.
+In addition, we consider ways to promote a broader understanding of the Toyota Tsusho Group by further enhancing public relations and investor relations.
+
+Promotion Structure	
+We employ a corporate auditor system and an executive officer system.
+Toyota Tsusho has adopted a corporate auditor system,
+ 
+through which the general meeting of shareholders elects five corporate auditors. Three outside auditors are employed to perform audits from a third-party perspective. The corporate auditors are responsible for monitoring the appropriateness of accounting methods and results of audits by an independent auditor, exchanging information and ideas regarding crucial accounting topics, improving quality and efficiency in auditing by promoting cooperation with an independent auditing firm, as well as enhancing corporate governance.
+Toyota Tsusho conducts consolidated management through a divisional framework, with divisions responsible for related Group companies. At present, this structure comprises eight divisions, including seven sales divisions and the Administrative Division.
+In April 2006, Toyota Tsusho also introduced an executive officer system to bolster management efficiency and strengthen its internal controls, and streamlined its Board of Directors. Dedicated executive officers are in place for each division to assist management efforts of chief division officers. Chief division officers, who are also Company directors, are responsible both for keeping abreast of overall Company
+ 
+
+Corporate Governance Structure
+
+Cooperation
+ 
+
+
+Governance
+
+
+ 
+management and executing the duties associated with their divisions. This structure is designed to promote the rapid transmission and sharing of information.
+By separating overall company management (directors) and the execution of duties (executive officers), Toyota Tsusho aims to strengthen the Board of Directors’ operational execution and
+ 
+supervisory functions, clarify authority and responsibilities and strengthen internal control.
+We have also established Corporate Management Committees to consider companywide issues. Within this system, directors and executive officers examine measures to address management issues, consulting with the Board of Directors as necessary.
+ 
+
+
+
+ 
+We have formulated Basic Policies on Establishing Internal Control Systems, and we are creating structures to ensure that Group operations are carried out appropriately on this basis.
+
+ 
+
+Compliance System	
+We have established a CSR Committee that is chaired by the president.
+Toyota Tsusho implements a variety of measures to ensure that executives and employees carry out their duties in accordance with laws and regulations and the Articles of Incorporation.
+We have established the CSR Committee, chaired by the president, which deliberates and formulates plans related to compliance, safety and the environment, labor and personnel, social contribution and other topics. This committee also establishes information-sharing systems; and checks and balances at the divisional level through the Business Management Committee and the Business Operating Committee. Additionally, the ERM (Enterprise Risk Management) Department, which is responsible for companywide integrated risk management, evaluates, manages, checks and monitors the execution of business processes. Other duties of the ERM Department include creating systems for ensuring the reliability of financial reporting, establishing internal reporting systems and conducting internal audits.
+
+We conduct Group company audits.
+We have a lateral Group meeting structure in place to share Group policies and ensure that operations are conducted appropriately.
+Additionally, while avoiding undue interference with the execution of operations of subsidiaries, Toyota Tsusho follows and maintains control over important matters pertaining to the financial status and essential operational issues of its subsidiaries. As necessary, we dispatch directors and corporate auditors to conduct oversight and auditing of business operations. Toyota Tsusho also conducts internal audits through the ERM Department.
+ 
+We have established internal and external reporting lines. We have set up internal and external reporting lines, respectively via the ERM department and through attorney’s offices. All employees
+—both temporary and regular employees—can use these lines
+for reporting and consultation on topics related to business ethics.
+We use our intranet and compliance training sessions to make employees aware of these lines. Attesting to the success of these activities, the number of people using these lines of reporting has increased each year.
+
+We pursue initiatives to eliminate anti-social forces. Our Nagoya and Tokyo headquarters and our Osaka branch are members of local countermeasures associations, through which we follow instructions from police authorities and share information about anti-social forces.
+Furthermore, we respond to any unlawful demands via collaboration with the police, other relevant institutions and legal counsel.
+
+Compliance Training	
+We conduct training and hold seminars for Group companies in Japan and overseas.
+In an effort to ensure thorough compliance, Toyota Tsusho created its Code of Ethics Guidelines in fiscal 1998. As of fiscal 2011, the guide has been revised six times. Toyota Tsusho publishes a portable version of the guide, which it distributes to all executives and employees.
+We also hold various types of training and seminars to ensure compliance and specific codes of conduct in employees’ everyday operations. In fiscal 2010, we also began conducting training at Group
+ 
+
+Principal Compliance Training Conducted (Fiscal 2010)
+ 
+companies in Southeast Asian countries.
+ 
+Compliance training
+ 
+
+	Target	Content	Activities in Fiscal 2010
+Compliance seminar for new employees	New employees of Toyota Tsusho	General compliance	114 people
+
+Training on specific themes	
+Toyota Tsusho employees	Subcontract Law, handling third-country monetary payments, the basics of intellectual property rights, etc.	
+869 people (total of 47 times)
+e-learning	Toyota Tsusho employees	Subcontract Law	2,124 people
+Seminar for people in charge of human resources at affiliated companies in Japan	People in charge of human resources at principal Group companies in Japan	Labor compliance	59 people from 41 companies
+Seminar involving trips to affiliated companies in Japan	Employees of principal Group companies in Japan	Preventing misconduct	59 people in 14 companies
+New Japanese Class A new director training	New directors of principal Group companies in Japan	General compliance	49 people in 26 companies
+
+Overseas compliance training	Group company employees and employees stationed there	
+Preventing misconduct	253 people in approximately 30 companies (Thailand, Singapore, Indonesia, India)
+ 
+Information Management
+ 
+We conduct e-learning to raise awareness of information security.
+Toyota Tsusho has drafted Document Regulations and Handling Protocols for Management and Storage of Documents and implements other measures such as designating departments in charge of storage and the storage period. We are also dedicated to proper management of confidential information and have formulated Regulations for Confidential Information and Personal Information.
+The General Administration Department conducts e-learning to raise employee awareness of information security. In fiscal 2010, 3,420 employees participated in the course, with 3,090 of them completing the prescribed curriculum.
+We also held several Security Enhancement Conventions in Japan and overseas to strengthen information security throughout the Group. A total of 197 Group companies—66 from Japan and 131 from other countries—participated in these sessions, where we shared our information security policy and action items. We have established consultation centers in overseas regions to handle specific information security measures and boosted the level of information security throughout the Group.
+We plan to revise our Regulations for Confidential Information and Personal Information in response to the growing social importance of information, as well as to further enhance information management.
+ 
+Risk Management
+ 
+We seek to accurately determine and manage risks according to their characteristics.
+We have set up a specialized risk management organization, established management regulations for various risks, distribute manuals and conduct training.
+The ERM Committee, which is chaired by the president, is in charge of determining and uncovering companywide risk-related issues. Meanwhile, the ERM Department, which is managed directly by the head of the Administrative Division, drafts and implements risk management policies. We formulate guidelines outlining management regulations and operating standards for risks that require particular caution in the course of our business activities, such as investment and financing, credit and market risks. Relevant departments also hold conferences to ensure that risks are being appropriately recognized and managed. The Safety & Global Environment Management Department sets management regulations on OH&S risk, which includes concerns for personal injury and damage compensation, and manages this risk via the Safety Management Improvement Committee. We set up emergency headquarters to respond in the event of urgent situations such as natural disasters, environmental accidents or misconduct.
+In fiscal 2010, we worked to enhance our risk management in several ways. For example, we conducted compliance and information security audits. Furthermore, meetings were held periodically with the ERM Department and operating divisions and we established environmental risk management policies.
+ 
+
+
+
+ 
+Toyota Tsusho is committed to disclosing information aimed at heightening stakeholder involvement, and we encourage bilateral communications to this end.
+
+ 
+
+Disclosure
+ 
+A wide variety of information is disclosed on our website. Toyota Tsusho’s website provides substantial information, including basic corporate information and information on business activities, finances and employment opportunities.
+In addition to disclosing information about the Company, we work to make the website a point of bilateral communication, providing points of contact for stakeholders to request materials or submit inquiries.
+We take advantage of numerous opportunities for dialog with our investors.
+Toyota Tsusho promotes disclosure and dialog by holding results briefings as well as individual meetings with institutional shareholders, including those located overseas.
+We join other companies in participating in institutional research seminars for individual investors and hold company briefings at branches of securities companies. These gatherings provide an opportunity for us to explain our management vision and long-term management plans, as well as to elicit valued input from participants.
+In addition to incorporating this feedback into our management, we plan to continue taking advantage of opportunities to explain the Company’s operations.
+ 
+
+General Meeting of Shareholders
+ 
+We avoid holding our general meeting on days when there is a large concentration of other shareholder meetings.
+To allow as many shareholders as possible to attend our General Meeting of Shareholders, we avoid holding this meeting on days when there is a large concentration of other shareholder meetings. For shareholders and other stakeholders who are unable to attend the meeting, we provide live and on-demand viewing of the meetings through our website.
+In fiscal 2010, we sent out our shareholder meeting convocation notice one week earlier than in the past—three weeks prior to the meeting—to give shareholders more time to exercise their voting rights. We also participate in new platforms for the exercise of voting rights.
+
+
+
+
+
+
+
+General Meeting of Shareholders
+ 
+Response to the Great East Japan Earthquake
+
+On March 11, 2011, the Great East Japan Earthquake struck off the Pacific coast of Tohoku, causing massive damage centered in the Tohoku and Kanto regions.We grieve deeply for the people who lost their lives in this disaster, and offer our sincere condolences to all others Who Were affected.
+As no Toyota Tsusho employees suffered personal injuries in the calamity and our structures and facilities sustained only light damage, We directed our efforts to providing support for the stricken region.
+
+
+ 
+Immediate Post-Earthquake Response	
+
+In response to the earthquake, which struck at 2:46 p.m., at 3:30 p.m. Senior Managing Director Mikio Asano (Chief Division Officer of the Administrative Division) established a Disaster Response Headquarters at the Nagoya Head Office. The headquarters immediately began work to determine the safety of all employees, and by March 15 the safety of all Toyota Tsusho employees had been confirmed. Furthermore, by March 17 the headquarters had determined the safety of three employees of affiliated companies, whose whereabouts had been uncertain until then.
+As an initial response in the aftermath of the disaster, on April 18 the Disaster Response Headquarters established the Restoration and Recovery Measures Headquarters, charged with directing efforts to restore the Group’s operations to normality. The Restoration and Recovery Measures Headquarters was dissolved on June 27, 2011.
+
+Impact of the Earthquake on Toyota Tsusho	
+
+Toyota Tsusho suffered no personnel injuries in the disaster. Some shops operated by TD Mobile Corporation, an affiliated company involved in the sale of mobile phones, were swept away by the post-earthquake tsunami, and for several days we were unable to confirm the whereabouts of some of its employees. Soon, however, we were able to verify that they were unharmed.
+However, the Group sustained some damage to its structures and facilities. In addition to the damage at TD Mobile, the grain elevators of Kanto Grain Terminal Co., Ltd., and Tohoku Grain
+
+ 
+First Baking Co., Ltd., provides some 10,000 loaves of “Pokemon bread” to the affected region
+ 
+Terminal Co., Ltd., which own feed grain silos, were damaged. In addition, some of the production lines were damaged at First Baking Co., Ltd., a bakery, and the agricultural producer Vegi Dream Kurihara Co., Ltd., suffered damage to its storage tanks. In all instances, the damage was slight, and the companies have returned to normal operation.
+Owing to the major impact of the disaster, we delayed until after June the intake of new graduates who initially had been scheduled to start work at the Group in April.
+
+Supporting the Disaster-Stricken Region	
+
+As emergency support measures in response to requests from the head of the Miyagi prefectural government and our Sendai Branch, we dispatched two-ton trucks with emergency supplies, making three trips to the affected region. In addition, we responded to requests from Miyagi Prefecture by providing 58 drum lid openers, one underground tank kerosene feed pump and approximately 100 wheelchairs.
+To cheer the children in the affected region, affiliated company First Baking Co., Ltd. made some 10,000 special Pokemon-shaped bread loaves, which it delivered to children via the related municipalities. Another affiliated company, Fukusuke Corporation, sent approximately 58,000 articles of clothing—socks and underwear—that it had produced.
+Toyota Tsusho provided ¥100 million in donations to the region through the Central Community Chest of Japan. Affiliated companies in Japan and overseas similarly donated ¥37 million, and employees provided another ¥6 million in donations.
+
+
+Fund-raising activities in cooperation with the Toyota Tsusho Labor Union
+ 
+
+Third-Party Opinion of Toyota Tsusho’s CSR Report
+
+
+
+
+
+
+Mr. Hiroji Tanaka
+President, Tokyo College of Transport Studies
+
+Profile	
+Worked at the Bank of Japan from 1954 to 1990, during which time he graduated from Chuo University with a law degree in 1959. Professor at Rikkyo University Graduate School of Economics from 2002 to 2006. A distinguished member of the Japan Society for Business Ethics Study, Head and Top Researcher at the Business Ethics Research Center, and a member of the Ministry of Economy, Trade and Industry’s ISO 26000 JIS Committee. Has authored numerous books.
+
+ 
+Toyota Tsusho’s shared recognition that, its “Corporate Philosophy and vision serve as the basis for CSR activities” indicates its aim of a sustainable global society and shows that it is striving to become a company that is trusted by its stakeholders. Overall, I would say that the state of Toyota Tsusho’s CSR activities is essentially on a par with those of other general trading companies.
+Areas Deserving of Praise
+First, I would say that Toyota Tsusho’s CSR activities are consistent with its message from top management, CSR policy, Corporate Philosophy framework and the GLOBAL 2020 VISION.
+In the Message from Management, you assert that “CSR is inseparable from management,” provide a general overview of your principal initiatives during fiscal 2010 and outline your new management vision. The report clearly spells out that your CSR policy and philosophy framework comprises four tiers: a Fundamental Philosophy, a vision, long-term business plans and annual plans, and The Toyota Tsusho Group Way. This approach is extremely effective in ensuring that all Group employees share management’s stance and CSR activity philosophy.
+Second, the special feature spells out activities in seven business domains. This clearly elucidates to stakeholders your perspective on sustainability.
+Your operating divisions are working to develop stable suppliers of rare earths, providing training for drivers and managing transport circumstances in Thailand, helping to prevent global warming by building one of the largest solar power plants in the United States, and establishing a stable supply of bio-PET. Furthermore, you have established a new company to take part in the complete cultivation of bluefin tuna and are developing operations in the nursing care business. These efforts show that you are leveraging your strengths to take on the challenges of the times and meet society’s demands.
+Third, a key focus of your CSR activities is occupational safety and health, responding on a personnel perspective to the needs of the people that work for you, as well as environmental initiatives, social contribution activities, governance and response to the Great East Japan Earthquake. These topics are all laid out clearly and your successes are explained concretely.
+On the occupational safety and health front, you have established a promotion structure and are conducting thorough training. Your operation of the Safety and Health Cooperation Council demonstrates cooperation with your business partners. From a personnel standpoint, you have in place the Challenge
+ 
+Rotation and commendation system, and on the environmental front you have introduced a groupwide environmental management system and are conducting activities to prevent global warming. Your social contribution activities include delivering picture books and providing scholarships to young students in Africa. You are enhancing your governance promotion structure and promoting internal control (including compliance, risk management and information management) and stakeholder communications. Your activities in each of these areas are appropriate and explained in an easy-to-understand manner.
+Fourth, your CSR Report 2010 is consistent with the previous year’s report in its editorial policy. This year, you have stepped up your focus about respect for human rights and the promotion of diversity, which are particularly topical from an international human resources perspective. In the work–life balance category, you provide a chart entitled Overview of Systems to Help Achieve a Work–Life Balance by Supporting Childbirth and Child Care that indicates how you are extending your systems to encourage employees to achieve a balance between work and home life.
+Areas Needing Improvement
+First, Toyota Tsusho has formulated its new GLOBAL 2020 VISION indicating clear targets for the decade commencing in 2011 to be shared by employees throughout the Group.
+This vision, in conjunction with your philosophy framework, indicates Toyota Tsusho’s “ideal self” as maintaining an unwavering sense of responsibility and garnering customers’ trust. Your ideal corporate vision is clear.
+To put this vision into practice, I would like to see you disclose specific action plans, evaluations of practical outcomes and issues and countermeasures, outlined by fiscal year, as well as your progress along these lines. Such disclosure will help to increase the trust you earn from your shareholders.
+Second, I would like to mention the international standard for social responsibility, ISO 26000, which was issued in November 2010.
+We are in the process of creating a Japanese Industrial Standard (JIS) based on this international standard. The JIS standard is scheduled for 2012.
+ISO 26000 addresses seven core subjects of social responsibility: organizational governance, human rights, labor practices, the environment, fair operating practices, consumer issues, and community involvement and development. I hope to see Toyota Tsusho establish CSR activity policies and strategies along these lines, and move steadily toward these objectives.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+Century Toyota Bldg. 9-8, Meieki 4-chome, Nakamura-ku, Nagoya 450-8575, Japan www.toyota-tsusho.com/English/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
